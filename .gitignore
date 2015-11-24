@@ -1,0 +1,9 @@
+_site/*
+*~
+.DS_Store
+_jekyll_s3.yml
+.#*
+s3_website.yml
+.sass-cache
+node_modules
+*.css.map
