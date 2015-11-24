@@ -31,6 +31,13 @@ $desktop:        1024px;
     }
 }
 
+@mixin clearfix {
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
@@ -111,11 +118,15 @@ nav {
   margin: 1rem 0;
   width: 100%;
   @include media-query($desktop) {
-    margin: 0;
-    position: absolute;
-    right: 0;
-    top: 30rem;
+    float: right;
+    margin-top: 5rem;
   }  
+}
+
+article {
+  @include media-query($desktop) {
+    float: left;
+  }
 }
 
 .about {
@@ -123,4 +134,7 @@ nav {
   height: 200px;
   max-width: 615px;
   width: 100%;
+  @include media-query($desktop) {
+    clear: both;
+  }
 }
