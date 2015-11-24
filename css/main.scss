@@ -13,13 +13,12 @@ $font-size-4: 4.2308rem;
 $font-size-5: 6.8462rem;
 $base-line-height: 1.5;
 
-$black-color:       #111;
+$navy:  rgb(20, 60, 90);
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
+$grey-color-light: rgb(242, 242, 242);
 $grey-color-dark:  darken($grey-color, 25%);
-$red-color: rgb(243,34,0);
-$red-color-lighter: rgba(243, 34, 0, .4);
-$red-color-background: rgb(249, 243, 238);
+$red-color: rgb(245, 60, 10);
+$tan: rgb(204, 102, 51);
 
 $desktop:        1024px;
 
@@ -44,7 +43,7 @@ $desktop:        1024px;
 @import "syntax-highlighting";
 
 body {
-  background: $red-color-background;
+  background: $grey-color-light;
   font-family: $base-font-family;
   font-size: 16px;
 }
@@ -85,13 +84,13 @@ nav {
 
 .post-header {
   h1 {
-    color: $black-color;
+    color: $navy;
     font-size: $font-size-2;
     font-weight: bold;
     padding: 1rem 0;
   }
   .post-date {
-    color: $red-color-lighter;
+    color: $tan;
     text-transform: uppercase;
     padding: 0 0 2rem 0;
   }
@@ -130,10 +129,11 @@ article {
 }
 
 .about {
-  background: grey;
+  background: white;
   height: 200px;
   max-width: 615px;
   width: 100%;
+  color: $grey-color-dark;
   @include media-query($desktop) {
     clear: both;
   }
