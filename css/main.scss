@@ -39,3 +39,26 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "syntax-highlighting";
+
+.content {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+nav {
+  padding: 8rem 0 4rem 0;
+  
+  ul li {
+    display: inline-block;
+    padding-right: 4rem;
+  }
+  
+  a {
+    border-bottom: 2px solid $red-color;    
+    color: $red-color;
+    font-family: $base-font-family;
+    padding-bottom: .25rem;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+}
