@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  this should be extra bold and dark grey
+title:  Delete this Post
 date:   2015-11-23 18:55:01
 categories: jekyll update
 ---
