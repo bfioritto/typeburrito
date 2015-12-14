@@ -47,6 +47,6 @@ When you are combining two typefaces, the key thing to remember is contrast. If 
 
 <img src="/images/combining_type_ebm/purpose_and_care.gif" alt="use scripts with care">
 
-Quality, Goldilocks, and Harmonious Contrast are all you need to remember to create beautiful font pairings. I'll be adding more resources and advice soon, including a cheat sheet of go-to pairings of Google Fonts. If you'd like to hear about this and other resources, I invite you to sign up for my newsletter.
+Quality, Goldilocks, and Harmonious Contrast are all you need to remember to create beautiful font pairings. If you found this article helpful, you might be interested in a cheat-sheet I'm creating of great Google Font pairings: join my email list to get it delivered straight to your inbox!
 
 <i>All the example typefaces in this post are available either through <a href="https://typekit.com" >Typekit</a> or <a href="https://google.com/fonts" >Google Fonts.</a> Typefaces used: Adobe Caslon, Acumin Black, Acumin Light, Acumin Regular, Acumin Thin, Arvo, Baskerville, Dancing Script, Crimson Text, FJalla One, Lato, Litania,  Ratio Modern, Sanchez Slab, Source Sans Regular. My blog is set in the Open Sans family.</i>
