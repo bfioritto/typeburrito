@@ -9,7 +9,12 @@ We’ve all been there: you’ve got a design direction and you’re ready to go
 
 You know you need to pick typefaces that will work well together, but it seems like there’s a lot more to it than meets the eye, and you don’t have a year to get up to speed on the ins and outs of typography.
 
-Don’t worry: you don’t need to know all the rules. A few simple guidelines will give you a framework for making great type choices every time. Just remember three things: Quality, Goldilocks, and Harmonious Contrast. 
+Don’t worry: you don’t need to know all the rules. A few simple guidelines will give you a framework for making great type choices every time. 
+
+<em>Just remember three things: 
+	* Quality
+	* Goldilocks
+	* Harmonious Contrast</em>
 
 <h2>Quality</h2>
 
