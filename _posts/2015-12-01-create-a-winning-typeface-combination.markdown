@@ -28,7 +28,7 @@ They need type that is just right. I say readers and not users here because when
 
 Another reason to start with the typeface for your body copy? Your website is likely going to have a lot of text, so it’s going to take up most of the space. It’s important for your overall design to pick something with a feel that supports what you are trying to achieve. Want a clean, modern look? Make sure the typeface for your body text fits the bill. 
 
-<img src="/images/combining_type_ebm/goldilocks.gif" alt="goldilocks">
+<img src="/images/combining_type_ebm/goldilocks.png" alt="goldilocks">
 
 <h2>Harmonious Contrast</h2>
 
@@ -38,19 +38,19 @@ When you are combining two typefaces, the key thing to remember is contrast. If 
 
 <em>Font Family.</em> This is a safe approach that works because the type is designed to work together. It can look a bit conservative because there's not a lot of contrast, but it's a sure-fire way to make sure your type pairing works.
 
-<img src="/images/combining_type_ebm/all_in_the_family.gif" alt="type family acumin">
+<img src="/images/combining_type_ebm/all_in_the_family.png" alt="type family acumin">
 
 <em>Serif with Sans-serif.</em> This is a pretty sure-fire way to pick a good font combination. Pick one as a display face, the other as the body. This approach has a lot of contrast by nature, so look for ways to unify the two faces. Study the forms of the typefaces side by side: do they have a similar character width? A similar x-height? Are the round letters more geometric (perfectly round) or not? If the two faces don’t have some kind of structural commonality, they probably won’t work great together. Keep in mind harmony and contrast: the greater the contrast of forms, the more attention your type will draw.
 
-<img src="/images/combining_type_ebm/serif_sans.gif" alt="serif with sans-serif">
+<img src="/images/combining_type_ebm/serif_sans.png" alt="serif with sans-serif">
 
 <em>Like with Like.</em> It can be tricky to pair faces that share a classification (e.g. serif with serif): if the faces are too similar, they’ll clash. But thinking in terms of harmony and contrast, you can still make great pairings. Your body text will likely be less quirky since you picked a “Goldilocks” typeface, so a display face with more character is a good way to introduce some variety and avoid clashing. Other ways to create contrast are through weight, width, and style: again, you can assess those kinds of structural similarities and differences by looking at the type closely side by side. 
 
-<img src="/images/combining_type_ebm/like_with_like.gif" alt="like with like">
+<img src="/images/combining_type_ebm/like_with_like.png" alt="like with like">
 
 <em>Script and Handwriting Fonts.</em> I don’t advise using a script or handwriting font for body text, but when used with care, these can work as a display face with either a serif or sans-serif body text. You will be starting with a lot of contrast between the two typefaces, so examine the structures of the letters to find some similarities. The letterforms themselves might not have a lot in common, but think about what each is communicating through its style (formal, informal, modern, traditional, etc) to bring a little harmony to the pairing.
 
-<img src="/images/combining_type_ebm/purpose_and_care.gif" alt="use scripts with care">
+<img src="/images/combining_type_ebm/purpose_and_care.png" alt="use scripts with care">
 
 Quality, Goldilocks, and Harmonious Contrast are all you need to remember to create beautiful font pairings. If you found this article helpful, you might be interested in a cheat-sheet I'm creating of great Google Font pairings: join my email list to get it delivered straight to your inbox!
 
