@@ -14,6 +14,7 @@ $font-size-5: 4.2308rem;
 $font-size-6: 6.8462rem;
 $font-size-7: .9rem;
 $base-line-height: 1.4;
+$article-width: 500px;
 
 $navy:  rgb(20, 60, 90);
 $grey-color:       #828282;
@@ -57,6 +58,10 @@ body {
   font-size: $font-size-1;
 }
 
+img {
+  max-width: 100%;
+}
+
 a:link {
   color: $red-color;
   text-decoration: none;
@@ -80,17 +85,13 @@ a:visited {
 }
 
 .content {
-  max-width: 500px;
+  max-width: $article-width;  
   padding: 1rem;
   margin-left: auto;
   margin-right: auto;
 
   > * {
-    max-width: 500px;    
-  }
-  
-  @include media-query($desktop) {
-    padding: 1rem;
+    max-width: $article-width;    
   }
 }
 
@@ -114,7 +115,7 @@ a:visited {
 
 nav {
   display: block;
-  max-width: 500px;
+  max-width: $article-width;
   margin-left: auto;
   margin-right: auto;
   padding-top: .5rem;
@@ -197,7 +198,7 @@ nav {
   display: none;
   @include media-query($desktop) {
     display: block;
-    float: left;
+    position: absolute;
     margin-left: -14rem;
     margin-top: -11rem;
     max-width: 200px;
@@ -248,12 +249,6 @@ h2 {
   padding-bottom: 1rem;
   font-weight: 700;
   font-size: $font-size-2;
-}
-
-article {
-  @include media-query($desktop) {
-    float: left;
-  }
 }
 
 .about {
