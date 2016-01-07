@@ -287,3 +287,12 @@ article {
   width: 100%;
 }
 
+.wf-loading {
+  opacity: 0;
+}
+
+.wf-active {
+  -webkit-transition: all 1s;  
+  transition: all 1s;
+  opacity: 1;
+}
