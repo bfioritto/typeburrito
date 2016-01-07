@@ -11,16 +11,21 @@ You know you need to pick typefaces that will work well together, but it seems l
 
 Don’t worry: you don’t need to know all the rules. A few simple guidelines will give you a framework for making great type choices every time. 
 
-<em>Just remember three things: 
-	* Quality
-	* Goldilocks
-	* Harmonious Contrast</em>
+<em>Just remember three things:</em>
+
+* Quality
+* Goldilocks
+* Harmonious Contrast
 
 <h2>Quality</h2>
 
 If you remember nothing else, remember the golden rule: always use high-quality fonts.
 
-Bad fonts can mean poor spacing and kerning, missing glyphs, and more, so save yourself the trouble! If your client has room in their budget, I recommend purchasing fonts that are well-suited to your project, but if that’s not in the cards, there are plenty of excellent free fonts out there. Admittedly, finding a high-quality typeface can be time-consuming and daunting: not sure how to spot a winner? Here are a bunch of great suggestions. 
+Bad fonts can mean poor spacing and kerning, missing glyphs, and more, so save yourself the trouble! If your client has room in their budget, I recommend purchasing fonts that are well-suited to your project, but if that’s not in the cards, there are plenty of excellent free fonts out there. Admittedly, finding a high-quality typeface can be time-consuming and daunting.
+
+Not sure how to spot a winner? Drop your email address in this form here, I'm putting together a list of high-quality, free fonts you can use on your next project. I'll shoot you an email when it's done!
+
+{% include form.html cta="Send me cool fonts!" %}
 
 <h2>Readers are Like Goldilocks</h2>
 
@@ -52,6 +57,16 @@ When you are combining two typefaces, the key thing to remember is contrast. If 
 
 <img src="/images/combining_type_ebm/purpose_and_care.png" alt="use scripts with care">
 
-Quality, Goldilocks, and Harmonious Contrast are all you need to remember to create beautiful font pairings. If you found this article helpful, you might be interested in a cheat-sheet I'm creating of great Google Font pairings: join my email list to get it delivered straight to your inbox!
+Quality, Goldilocks, and Harmonious Contrast are all you need to remember to create beautiful font pairings.
+
+<div class="cta">
+
+    <h2>Want a cheat-sheet of Google Font pairings?</h2>
+    <p>Drop your email in the box below for the cheat sheet of great font pairings and also receive my weekly-ish newsletter</p>
+    <figure class="arrow">
+        <img src="/images/arrow.png">
+    </figure>
+    {% include form.html cta="Send me the cheat sheet!" %}
+</div>
 
 <i>All the example typefaces in this post are available either through <a href="https://typekit.com" >Typekit</a> or <a href="https://google.com/fonts" >Google Fonts.</a> Typefaces used: Adobe Caslon, Acumin Black, Acumin Light, Acumin Regular, Acumin Thin, Arvo, Baskerville, Dancing Script, Crimson Text, FJalla One, Lato, Litania,  Ratio Modern, Sanchez Slab, Source Sans Regular. My blog is set in the Open Sans family.</i>
