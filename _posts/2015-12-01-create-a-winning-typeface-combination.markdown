@@ -62,7 +62,7 @@ Quality, Goldilocks, and Harmonious Contrast are all you need to remember to cre
 <div class="cta">
 
     <h2>Want a cheat-sheet of Google Font pairings?</h2>
-    <p>Drop your email in the box below for the cheat sheet of great font pairings and also receive my weekly-ish newsletter</p>
+    <p>Drop your email in the box below for a cheat sheet of great font pairings and also receive my weekly-ish newsletter</p>
     <figure class="arrow">
         <img src="/images/arrow.png">
     </figure>
