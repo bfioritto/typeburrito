@@ -69,4 +69,4 @@ Quality, Goldilocks, and Harmonious Contrast are all you need to remember to cre
     {% include form.html cta="Send me the cheat sheet!" %}
 </div>
 
-<i>All the example typefaces in this post are available either through <a href="https://typekit.com" >Typekit</a> or <a href="https://google.com/fonts" >Google Fonts.</a> Typefaces used: Adobe Caslon, Acumin Black, Acumin Light, Acumin Regular, Acumin Thin, Arvo, Baskerville, Dancing Script, Crimson Text, FJalla One, Lato, Litania,  Ratio Modern, Sanchez Slab, Source Sans Regular. My blog is set in the Open Sans family.</i>
+<i>All the example typefaces in this post are available either through <a href="https://typekit.com" >Typekit</a> or <a href="https://google.com/fonts" >Google Fonts.</a> Typefaces used: Adobe Caslon, Acumin Black, Acumin Light, Acumin Regular, Acumin Thin, Arvo, Baskerville, Dancing Script, Crimson Text, Fjalla One, Lato, Litania,  Ratio Modern, Sanchez Slab, Source Sans Regular. My blog is set in Proxima Nova and Clarendon URW.</i>
