@@ -73,12 +73,12 @@ ul {
   }
 }
 
-a:link {
+a {
   color: $link;
   text-decoration: none;
 }
 
-a:link:hover {
+a:hover {
   text-decoration: underline;
 }
 
@@ -137,7 +137,6 @@ nav {
   letter-spacing: 1px;
   font-size: $font-size-9;
   @include media-query($desktop) {
-    font-size: $font-size-3; 
     display: block; 
     text-align: right;
     padding-top: 0.75rem;
@@ -157,8 +156,6 @@ nav {
   }
   
   a {
-    border-bottom: 2px solid $black;    
-    color: $black;
     display: inline;
     padding-bottom: .125rem;
     text-decoration: none;
