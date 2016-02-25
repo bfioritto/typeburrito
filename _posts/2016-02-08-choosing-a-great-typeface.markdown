@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Combining Type with Confidence, Part 1. Choosing a Great Typeface
+title:  Combining Type with Confidence, Part 1&#58; Choosing a Great Typeface
 date:   2016-02-08 11:25:01
 categories: jekyll update
 ---
@@ -103,5 +103,4 @@ Don’t be afraid to <em>do some research.</em> A thoughtfully-chosen typeface c
 
 I hope this has been helpful! If you liked this article, sign up now to get Part 2 (How to Pair Type) delivered to your inbox! 
 
-{% include form.html %}
 {% include cta.html %}
