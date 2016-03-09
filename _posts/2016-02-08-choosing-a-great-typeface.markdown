@@ -5,15 +5,9 @@ date:   2016-02-08 11:25:01
 categories: jekyll update
 ---
 
-List of illustrations I need:
-1) illustration with labeled x-height, counters, serifs
-2) illustration of one letter in diff faces, most to least contrast
-3) illustration of same paragraph in two typefaces (for color definition)
-4) illustration of a short passage set with type that is appropriate to content vs. times new roman
 Links:
 first sentence link to part 2.
 email button
-
 
 <i>This article is part 1 in a 2-part series on choosing and combining typefaces. Read part 2 here (link).</i>
 
@@ -29,17 +23,21 @@ The most important question you need to ask is "does this help to accomplish my 
 
 Now for some Type 101! To figure out if a typeface is going to work for your project, you need to know your way around a letterform. 
 
-(illustration 1: illustration with labeled x-height, counters, serifs)
+<img src="/images/choosing_type/x-height_counters_serifs.png" alt="diagram showing x-height, counters, serifs">
 
 <em>X-height:</em> The height of most lowercase letters (such as the letter x) in the typeface. At small sizes, shorter x-heights are generally harder to read than taller x-heights.
 
 <em>Counters:</em> The enclosed parts of letters like b, d, or p. Just like short x-heights, small counters can make reading hard at small sizes.
 
-<em>Serifs:</em> You know these guys—the little strokes sticking off the ends of letters. Conventional wisdom says that serifs make type easier to read. <a href="http://alexpoole.info/blog/which-are-more-legible-serif-or-sans-serif-typefaces/">However research shows this isn’t really the case.</a> Legibility is affected most by how quickly and easily the reader is able to recognize letter forms. So don’t sweat the serifs one way or the other!
+<em>Serifs:</em> You know these guys—the little strokes sticking off the ends of letters. Conventional wisdom says that serifs make type easier to read. <a href="http://alexpoole.info/blog/which-are-more-legible-serif-or-sans-serif-typefaces/">However, research shows this isn’t really the case.</a> Legibility is affected most by how quickly and easily the reader is able to recognize letter forms. So don’t sweat the serifs one way or the other!
 
-<em>Contrast:</em> The difference between the thickest and thinnest parts of a letter. High-contrast type is harder to read at small sizes. The thin parts seem to disappear, so letters are harder to make out. Even if you can see the fine lines, an effect called dazzling makes small, high-contrast type uncomfortable for reading. Avoid it at small sizes. (illustration 2: illustration of one letter in diff faces, most to least contrast)
+<em>Contrast:</em> The difference between the thickest and thinnest parts of a letter. High-contrast type is harder to read at small sizes. The thin parts seem to disappear, so letters are harder to make out. Even if you can see the fine lines, an effect called dazzling makes small, high-contrast type uncomfortable for reading. Avoid it at small sizes.
 
-<em>Color:</em> When talking about type this actually has nothing to do with actual color, but with how dark or light a block of text looks from afar: if it’s too dark and dense it can be difficult to read. Don’t use bold weights for long blocks of text, and if necessary add more line spacing if your paragraphs look daunting to read. (illustration 3: illustration of same paragraph in two typefaces)
+<img src="/images/choosing_type/contrast.png" alt="contrast diagram">
+
+<em>Color:</em> When talking about type this actually has nothing to do with actual color, but with how dark or light a block of text looks from afar: if it’s too dark and dense it can be difficult to read. Don’t use bold weights for long blocks of text, and if necessary add more line spacing if your paragraphs look daunting to read. 
+
+<img src="/images/choosing_type/color.png" alt="text block color illustration">
 
 <em>Text Faces vs. Display Faces:</em> Most type is designed with a specific context in mind. Type for small sizes, intended for longer reading, is called a text face and is designed to be legible and comfortable for reading at “text” sizes. 
 
@@ -83,7 +81,9 @@ There are a lot of great free fonts out there, but it’s important to know what
 
 <h2>Research Pays Off</h2>
 
-Even with these guidelines for picking type, the most important thing to keep in mind is the needs of your project. Spending some time up front doing research will help your type design sparkle. Consider what you’re trying to communicate and how your type can help you. Type from a certain time period, designed for a certain industry or medium, or to use in a particular context can go far in subtly highlighting ideas you’re trying to express. (illustration 4: illustration of a short passage set with type that is appropriate to content vs. times new roman)
+Even with these guidelines for picking type, the most important thing to keep in mind is the needs of your project. Spending some time up front doing research will help your type design sparkle. Consider what you’re trying to communicate and how your type can help you. Type from a certain time period, designed for a certain industry or medium, or to use in a particular context can go far in subtly highlighting ideas you’re trying to express. 
+
+<img src="/images/choosing_type/content_appropriate.png" alt="illustration of content-appropriate type choice">
 
 As an added bonus, research helps you clarify your thinking. When you share your work with your client, you’ll be able to explain specifically why you made the choices you did. <em>They’ll appreciate your work all the more.</em>
 

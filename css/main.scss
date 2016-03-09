@@ -7,15 +7,15 @@
 // Our variables
 $base-font-family: "proxima-nova", sans-serif;
 $header-font-family: "clarendon-urw", serif;
-$font-size-1: 1rem;
-$font-size-2: 1.4rem;
-$font-size-3: 1.96rem;
-$font-size-4: 2.74rem;
-$font-size-5: 3.84rem;
-$font-size-6: 5.38rem;
-$font-size-7: 7.53rem;
-$font-size-9: .9rem;
-$base-line-height: 1.4;
+$font-size-1: 1.2rem;
+$font-size-2: 1.44rem;
+$font-size-3: 1.73rem;
+$font-size-4: 2.07rem;
+$font-size-5: 2.49rem;
+$font-size-6: 2.99rem;
+$font-size-7: 3.58rem;
+$font-size-9: 1rem;
+$base-line-height: 1.44;
 $article-width: 710px;
 
 
@@ -83,7 +83,7 @@ a:hover {
 }
 
 a:visited {
-  color: $link-visited;
+  color: $black;
 }
 
 .banner {
@@ -139,6 +139,7 @@ nav {
   @include media-query($desktop) {
     display: block; 
     text-align: right;
+    font-size: $font-size-1;
     padding-top: 0.75rem;
     padding-bottom: 0rem;
   }
@@ -173,7 +174,7 @@ nav {
     font-family: $header-font-family;
     font-weight: 300;
     color: $black;
-    font-size: $font-size-4;
+    font-size: $font-size-5;
     line-height: 1.2;
     padding-top: 4rem;
     margin-left: auto;
@@ -256,6 +257,15 @@ h2 {
   padding-top: 2rem;
   padding-bottom: 1rem;
   font-weight: 300;
+  font-size: $font-size-4;
+}
+
+h3 {
+  font-family: $base-font-family;
+  line-height: $base-line-height;
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  font-weight: 700;
   font-size: $font-size-3;
 }
 

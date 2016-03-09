@@ -5,21 +5,11 @@ date:   2016-02-08 11:25:02
 categories: jekyll update
 ---
 
-illustrations:
-1) "text face, display face, don't use:" gwen eifl, sam elliot, boomhauer
-2) DONE font family
-3) EDIT serif with sans: add a counter-example, take out second example, make background color of big letters grey, add x-height line
-4) EDIT like with like: change the copy since i'm already using the shirt metaphor, background on diagram to grey
-5) DONE purpose and care
-
-
 links:
 1) link to part 1 "not sure how to pick a quality typeface?"
 2) (toward the end: Pairing doesn't need to be mysterious...) link to part 1
 
-
-
-We’ve all been there: you’ve got a design direction and you’re ready to go, only to be sucked into hours of fruitless tinkering with different header/body typeface combos, and in the end result looks like the typographic equivalent of finger-painting with barbeque sauce (i'm really searching for some kind of messy metaphor that you would viscerally hate—ideas?)
+We’ve all been there: you’ve got a design direction and you’re ready to go, only to be sucked into hours of fruitless tinkering with different header/body typeface combos, but the result just ends up looking like a flyer for a missing cat. 
 
 You know you need to pick typefaces that will work well together, but it seems like there’s a lot more to it than meets the eye, and you don’t have a year to get up to speed on the ins and outs of typography.
 
@@ -36,9 +26,7 @@ So: you’ve got a design direction, and you know you’re going to need a coupl
 
 Why? Because there’s more of it. It will have a bigger visual impact on your design, so make sure it’s spot-on. Just as importantly, the reader will spend much more time reading this typeface, so pick something highly legible that can be read comfortably in long blocks. Choosing type is like picking a voice for your content. Your text face needs to be a newscaster: it’s essential that your type “speak” clearly so it can be understood by everyone. 
 
-Your display face can have a bit more character, but don’t go for anything overly difficult to read. Typography's main job is to be read.
-
-(illustration 1: "text face, display face, don't use:" gwen eifl, sam elliot, boomhauer)
+Your display face can have a bit more character, but don’t go for anything overly difficult to read. The main job of type is to be read.
 
 <h2>Unity and Variety</h2>
 
@@ -50,20 +38,20 @@ Depending on the needs of your design, there are a few different approaches you 
 
 <em>Font Family.</em> This is a safe approach that works because the type is designed to work together. It can look a bit conservative because there's not a lot of contrast, but it's a sure-fire way to make sure your type pairing works.
 
-<img src="/images/combining_type_ebm/all_in_the_family.png" alt="type family acumin">
+<img src="/images/combining_type/all_in_the_family.png" alt="type family acumin">
 
 <em>Serif with Sans-serif.</em> This is great approach because there's already an element of variety (serif vs. sans). Pick one as a display face, the other as the body. 
 Since you're starting with a lot of contrast, look for ways to unify the two faces. Study the forms of the typefaces side by side: do they have a similar character width? A similar x-height? Are the round letters more geometric (perfectly round) or not? If the two faces don’t have some kind of structural commonality, they probably won’t work great together. 
 
-<img src="/images/combining_type_ebm/serif_sans.png" alt="serif with sans-serif"> (add another image here, with two faces that have NOTHING holding them together.)
+<img src="/images/combining_type/serif_sans.png" alt="serif with sans-serif"> 
 
 <em>Like with Like.</em> It can be tricky to pair faces that share a classification (e.g. serif with serif). Just like the black shirt you washed one too many times doesn’t quite match your black pants, they’re close, but something is definitely off. But thinking in terms of unity and variety, you can still make great pairings. With this approach you start with a lot of unity, so seek out variety. One way is to find faces that have very different levels of contrast (the difference between thick and thin strokes). Other ways to create variety are through weight, width, and style: examine the type at a large size side by side to see what the letterforms offer for a good mix of unity and variety.
 
-<img src="/images/combining_type_ebm/like_with_like.png" alt="like with like"> (need to edit the language since i'm using the shirt metaphor in my copy)
+<img src="/images/combining_type/like_with_like.png" alt="like with like">
 
 <em>Script and Handwriting Fonts.</em> I don’t advise using a script or handwriting font for body text, but when used thoughtfully, these can work as a display face with either a serif or sans-serif text face. You are starting with a lot of inherent contrast, so examine the structures of the letters to find some similarities. The letterforms themselves might not have a lot in common, but think about what each is communicating through its style (formal/informal, modern, traditional, etc) to bring harmony to the pairing.
 
-<img src="/images/combining_type_ebm/purpose_and_care.png" alt="use with purpose and care">
+<img src="/images/combining_type/purpose_and_care.png" alt="use with purpose and care">
 
 If you have two fonts that work together but still seem a little too similar, try changing the size or weight to add some variety. 
 
@@ -73,7 +61,7 @@ Pairing type doesn’t need to be mysterious or scary! Start with quality typefa
 
 Remember that you are the expert on the most important aspect of choosing and pairing type: the requirements of your project. The more you internalize these objectives, the better your choices will be. 
 
-If you liked this article, don’t miss out on my cheat sheet for pairing Google Fonts! Type your email below to get the cheat sheet and more goodies just like it delivered straight to your inbox.
+If you liked this article, don’t miss my cheat sheet for pairing Google Fonts! Type your email below to get the cheat sheet and more goodies just like it delivered straight to your inbox.
 
 {% include cta.html %}
 
