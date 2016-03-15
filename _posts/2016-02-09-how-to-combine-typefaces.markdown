@@ -8,7 +8,7 @@ links:
 1) link to part 1 "not sure how to pick a quality typeface?"
 2) (toward the end: Pairing doesn't need to be mysterious...) link to part 1
 
-We’ve all been there: you’ve got a design direction and you’re ready to go, only to be sucked into hours of fruitless tinkering with different header/body typeface combos, but the result just ends up looking like a flyer for a missing cat.
+We’ve all been there: you’ve got a design direction and you’re ready to go, only to be sucked into hours of fruitless tinkering with different header/body typeface combos. And after all that, the result just looks like a missing cat poster. 
 
 You know you need to pick typefaces that will work well together, but it seems like there’s a lot more to it than meets the eye, and you don’t have a year to get up to speed on the ins and outs of typography.
 

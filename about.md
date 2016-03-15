@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About
+title:  About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Type Burrito is a project of Beth Fioritto—that's me! 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm originally from Arizona and now live in Chicago where I am a designer and typographic enthusiast. I'm coming back to design after traveling other paths, and in returning I see how much the skillset of our field has broadened and changed. Designers have both expertise and gaps in their knowledge that differ widely from one designer to the next. We're continually learning new skills and honing our craft. I hope this site will be a resource for you as you deepen your knowledge and practice of typography.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+When I'm not scrutinizing serifs, I'm running after my toddler son, "helping" my husband cook dinner, going for walks, singing in a choir, renovating my house, and binge-watching House of Cards.
+
+<em>Why <i>Type Burrito?</i></em> My goal is that everything you want to know about typography will be here, wrapped up in one delicious package. (With or without guacamole: your choice!) The original inspiration comes from the fact (often pointed out by clever children or inebriated adults) that <i>burrito</i> sounds a lot like <i>Fioritto,</i> so I figure, why not roll with it?
