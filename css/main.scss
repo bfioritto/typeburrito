@@ -12,10 +12,10 @@ $font-size-2: 1.44rem;
 $font-size-3: 1.73rem;
 $font-size-4: 2.07rem;
 $font-size-5: 2.49rem;
-$font-size-6: 2.99rem;
+$font-size-6: 2.79rem; /* modular scale here should be 2.99*/
 $font-size-7: 3.58rem;
 $font-size-9: 1rem;
-$base-line-height: 1.44;
+$base-line-height: 1.6;
 $article-width: 710px;
 
 
@@ -23,9 +23,9 @@ $article-width: 710px;
 $background-color: rgb(240, 240, 240);
 $black: rgb(0, 0, 0);
 $red-orange: rgb(210, 61, 39);
-$coral: rgb(255, 99, 103);
-$link: rgb(174, 0, 0);
-$link-visited: rgb(85, 0, 0);
+$teal: rgb(5, 110, 115);
+$link: rgb(150, 61, 39);
+$link-visited: rgb(100, 100, 100);
 
 $desktop:        1024px;
 
@@ -83,7 +83,7 @@ a:hover {
 }
 
 a:visited {
-  color: $black;
+  color: $link-visited;
 }
 
 .banner {
@@ -124,6 +124,7 @@ nav {
   padding-bottom: .5rem;
   padding-right: .5rem;
   font-weight: 700;
+  font-color: $black;
   text-align: left;
   letter-spacing: 1px;
   font-size: $font-size-9;
@@ -165,7 +166,7 @@ nav {
     font-family: $header-font-family;
     font-weight: 300;
     color: $black;
-    font-size: $font-size-5;
+    font-size: $font-size-6;
     line-height: 1.2;
     padding-top: 2.75rem;
     padding-bottom: 2rem;
@@ -182,8 +183,7 @@ nav {
     font-size: $font-size-1;
     font-family: $base-font-family;
     font-weight: 700;
-    padding-bottom: 2rem;
-    margin-top: -1rem;
+    padding-bottom: 3rem;
     margin-left: auto;
     margin-right: auto;
     @include media-query($desktop) {
@@ -256,8 +256,8 @@ h2 {
 h3 {
   font-family: $base-font-family;
   line-height: $base-line-height;
-  padding-top: 1rem;
-  padding-bottom: 0rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
   font-weight: 700;
   font-size: $font-size-3;
 }
@@ -327,7 +327,7 @@ h3 {
     }
   }
   #newsletter-subscribe {
-    background-color: $coral;
+    background-color: $red-orange;
     border-radius: 5px;
     font-family: $base-font-family;
     font-weight: 700;

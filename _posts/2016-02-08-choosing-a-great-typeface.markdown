@@ -4,11 +4,7 @@ title:  Combining Type with Confidence, Part 1&#58; Choosing a Great Typeface
 date:   2016-02-08 11:25:01
 ---
 
-Links:
-first sentence link to part 2.
-email button
-
-<i>This article is part 1 in a 2-part series on choosing and combining typefaces. Read part 2 here (link).</i>
+<i>This article is part 1 in a 2-part series on choosing and combining typefaces.</i>
 
 Ugh, picking type! Of course it's important—good typography is the foundation of good web design—but before you know it, you're looking at 20 nearly-identical typefaces, second-guessing yourself, and wondering whether it really matters which one you pick.
 
@@ -62,7 +58,7 @@ Quality typefaces have been designed with care. This is going to shine through i
 
 <em>Special Characters:</em> You may not need additional characters such as an ampersand, small caps, or old-style numerals. But you might. These kinds of details can add a level of polish to your typography. Less frequently used on the web but still worth considering are ligatures, particularly with more traditional-style serifed typefaces. If this is something you know you’ll want to use (maybe in your display face?), then check that you have those glyphs.
 
-<em>Proper Punctuation:</em> Carefully-designed typefaces have different glyphs for true quotation marks (“curly quotes”) and inch marks. Don’t get stuck with dumb quotes! Not sure if you’re using the right marks? (link) Here’s a good guide.
+<em>Proper Punctuation:</em> Carefully-designed typefaces include a complete arsenal of glyphs for properly type-setting punctuation, such as true quotation marks (“curly quotes”) and inch marks. Not sure if you’re using the right marks? <a href="https://www.typewolf.com/cheatsheet">Here’s a good guide.</a>
 
 <em>Kerning and Spacing:</em> Same idea here: a well-designed typeface will be thoughtfully and carefully letter-spaced and kerned. So test out your typeface and make sure it’s up to snuff.
 
@@ -84,7 +80,7 @@ Even with these guidelines for picking type, the most important thing to keep in
 
 <img src="/images/choosing_type/content_appropriate.png" alt="illustration of content-appropriate type choice">
 
-As an added bonus, research helps you clarify your thinking. When you share your work with your client, you’ll be able to explain specifically why you made the choices you did. <em>They’ll appreciate your work all the more.</em>
+As a bonus, research helps you clarify your thinking. When you share your work with your client, you’ll be able to explain specifically why you made the choices you did. <em>They’ll appreciate your work all the more.</em>
 
 <h2>To Summarize...</h2>
 

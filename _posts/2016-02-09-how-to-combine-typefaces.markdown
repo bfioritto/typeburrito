@@ -4,9 +4,6 @@ title:  Combining Type With Confidence, Part 2&#58; How to Combine Typefaces
 date:   2016-02-08 11:25:02
 ---
 
-links:
-1) link to part 1 "not sure how to pick a quality typeface?"
-2) (toward the end: Pairing doesn't need to be mysterious...) link to part 1
 
 We’ve all been there: you’ve got a design direction and you’re ready to go, only to be sucked into hours of fruitless tinkering with different header/body typeface combos. And after all that, the result just looks like a missing cat poster. 
 
@@ -16,7 +13,7 @@ Don’t worry: you don’t need to know all the rules. A few simple guidelines w
 
 Pairing type really involves two skills: picking great typefaces, and the actual pairing.
 
-Not sure how to pick a quality typeface? Read part 1 (link) of this series.
+Not sure how to pick a quality typeface? Read <a href="http://typeburrito.com/2016/02/08/choosing-a-great-typeface.html">part 1 of this series.</a> 
 
 <em>Remember: you are the expert on your project’s objectives! The more in tune you are with these, the more decisive you’ll be, and the happier you'll be with the results.</em>
 So: you’ve got a design direction, and you know you’re going to need a couple different typefaces to get the job done. Where to start?
@@ -56,7 +53,7 @@ If you have two fonts that work together but still seem a little too similar, tr
 
 Need more unity? The easiest place to start is to look at the shapes of the letterforms. Or try something more subtle and sophisticated: unify your typography by finding type designed around the same time, or to find type inspired by the same tool or medium (broad-nib pen, carved in stone, etc—you can usually figure this out with just a bit of googling).
 
-Pairing type doesn’t need to be mysterious or scary! Start with quality typefaces, (link to part 1) think unity and variety, and pair away!
+Pairing type doesn’t need to be mysterious or scary! <a href="http://typeburrito.com/2016/02/08/choosing-a-great-typeface.html">Start with quality typefaces,</a> think unity and variety, and pair away!
 
 Remember that you are the expert on the most important aspect of choosing and pairing type: the requirements of your project. The more you internalize these objectives, the better your choices will be.
 
