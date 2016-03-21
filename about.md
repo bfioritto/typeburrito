@@ -4,7 +4,9 @@ title:  About
 permalink: /about/
 ---
 
-Type Burrito is a project of Beth Fioritto—that's me! 
+Type Burrito is a project of Beth Fioritto (that's me!)
+
+Looking for a designer? I am currently accepting design consulting and freelance work. Get in touch at beth.lukes@gmail.com.
 
 I'm originally from Arizona and now live in Chicago where I am a designer and typographic enthusiast. I'm coming back to design after traveling other paths, and in returning I see how much the skillset of our field has broadened and changed. Designers have both expertise and gaps in their knowledge that differ widely from one designer to the next. We're continually learning new skills and honing our craft. I hope this site will be a resource for you as you deepen your knowledge and practice of typography.
 
