@@ -8,7 +8,7 @@ date:   2016-02-08 11:25:01
 
 Ugh, picking type! Of course it's important—good typography is the foundation of good web design—but before you know it, you're looking at 20 nearly-identical typefaces, second-guessing yourself, and wondering whether it really matters which one you pick.
 
-So then you go looking for help—lists of <a href="http://hellohappy.org/beautiful-web-type/">"great"</a> fonts, or the "best" of a particular <a href="https://www.typewolf.com/top-10-helvetica-alternatives">kind of font</a>, but you still have no way to pick between them or know what makes them "great" in the first place. So then you think maybe you could play it even safer and just copy what someone else did. But that just leads to more self-doubt.
+So then you go looking for help—lists of <a href="http://hellohappy.org/beautiful-web-type/">"great"</a> fonts, or the "best" of a particular <a href="https://www.typewolf.com/top-10-helvetica-alternatives">kind of font</a>, but you still have no way to pick between them or know what makes them "great" in the first place. So then you think maybe you could play it even safer and copy what someone else did. But that just leads to more self-doubt.
 
 First of all: you've GOT this! Choosing great type doesn't need to be magical and mysterious. In fact, you're already the expert on the most important part. You just need a straightforward way for evaluating type, and you'll be a type-picking machine in no time!
 

@@ -24,8 +24,8 @@ $background-color: rgb(240, 240, 240);
 $black: rgb(0, 0, 0);
 $red-orange: rgb(210, 61, 39);
 $teal: rgb(5, 110, 115);
-$link: rgb(150, 61, 39);
-$link-visited: rgb(100, 100, 100);
+$link: rgb(210, 61, 39);
+$link-visited: rgb(140, 40, 30);
 
 $desktop:        1024px;
 
@@ -262,9 +262,9 @@ h3 {
   font-size: $font-size-3;
 }
 
-.about {
+.about-include {
   background: white;
-  max-width: 400px;
+  max-width: 700px;
   width: 100%;
   padding: 1rem;
   margin-right: auto;
@@ -277,13 +277,17 @@ h3 {
   float: center;
   @include media-query($desktop) {
     clear: both;
-}
-
+  }
 .portrait {
   float: left;
   padding-right: 1rem;
-  height: 70px;
+  margin-top: -.9rem;
 }
+}
+
+img{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .footer {
@@ -314,6 +318,7 @@ h3 {
   }
   input {
     display: block;
+    font-family: $base-font-family;
   }
   
   #newsletter-email {
@@ -324,33 +329,44 @@ h3 {
     width: 75%;
     @include media-query($desktop) {
     font-size: font-size-2;
+    /* on one line with subscribe button */
     }
   }
   #newsletter-subscribe {
     background-color: $red-orange;
-    border-radius: 5px;
+    border-radius: 0px;
     font-family: $base-font-family;
     font-weight: 700;
     padding: 16px;
     padding: 1rem;
     margin-top: 16px;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     margin-right: auto;
     margin-left: auto;
     text-align: center;
     font-size: $font-size-2;
     line-height: 1rem;
     max-width: 100%;
+    @include media-query($desktop) {
+    /* on one line with email input window */
+    }
   }
 }
 
 .cta {
   margin-bottom: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
   #newsletter-form {
     background: white;
-    border-radius: 4px;
-    border: 1px solid $black;
-    padding: 1.5rem;
+    border-radius: 0px;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-color: $black;
+    border-style: solid;
+    padding: 3.5rem;
   }
   p {
     font-weight: 700;

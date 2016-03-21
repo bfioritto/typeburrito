@@ -9,7 +9,7 @@ We’ve all been there: you’ve got a design direction and you’re ready to go
 
 You know you need to pick typefaces that will work well together, but it seems like there’s a lot more to it than meets the eye, and you don’t have a year to get up to speed on the ins and outs of typography.
 
-Don’t worry: you don’t need to know all the rules. A few simple guidelines will have you making great type choices in no time.
+Relax! You don’t need to know all the rules. A few simple guidelines will have you making great type choices in no time.
 
 Pairing type really involves two skills: picking great typefaces, and the actual pairing.
 
@@ -26,7 +26,7 @@ Your display face can have a bit more character, but don’t go for anything ove
 
 <h2>Unity and Variety</h2>
 
-There is this concept in art of unity and variety—the idea is that all compositions need both. If a composition is only unified, the viewer may lose interest. If there’s too much variety, there’s nothing holding the composition together: it’s chaos.
+There's this concept in art of unity and variety—the idea is that all compositions need both. If a composition is only unified, the viewer may lose interest. If there’s too much variety, there’s nothing holding the composition together: it’s chaos.
 
 This applies to pairing type as well. When you are combining two typefaces, it is essential that there is some contrast between them (variety), as well as some elements in common (unity).
 
@@ -55,7 +55,7 @@ Need more unity? The easiest place to start is to look at the shapes of the lett
 
 Pairing type doesn’t need to be mysterious or scary! <a href="http://typeburrito.com/2016/02/08/choosing-a-great-typeface.html">Start with quality typefaces,</a> think unity and variety, and pair away!
 
-Remember that you are the expert on the most important aspect of choosing and pairing type: the requirements of your project. The more you internalize these objectives, the better your choices will be.
+Remember that you are the expert on the most important aspect of choosing and pairing type: the requirements of your project. The more you internalize your objectives, the better your choices will be.
 
 If you liked this article, don’t miss my cheat sheet for pairing Google Fonts! Type your email below to get the cheat sheet and more goodies just like it delivered straight to your inbox.
 
