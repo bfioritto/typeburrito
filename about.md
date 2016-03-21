@@ -6,9 +6,9 @@ permalink: /about/
 
 Type Burrito is a project of Beth Fioritto (that's me!)
 
-Looking for a designer? I am currently accepting design consulting and freelance work. Get in touch at beth.lukes@gmail.com.
+I am a web design consultant and I'm fascinated with the dual nature of type—its beauty and utility. Detail-oriented is my middle name. Want to work together? Get in touch at beth.lukes@gmail.com.
 
-I'm originally from Arizona and now live in Chicago where I am a designer and typographic enthusiast. I'm coming back to design after traveling other paths, and in returning I see how much the skillset of our field has broadened and changed. Designers have both expertise and gaps in their knowledge that differ widely from one designer to the next. We're continually learning new skills and honing our craft. I hope this site will be a resource for you as you deepen your knowledge and practice of typography.
+Designers have both expertise and gaps in their knowledge that differ widely from one designer to the next. We're continually learning new skills and honing our craft. I hope this site will be a resource for you as you deepen your knowledge and practice of typography.
 
 When I'm not scrutinizing serifs, I'm running after my toddler son, "helping" my husband cook dinner, going for walks, singing in a choir, renovating my house, and binge-watching House of Cards.
 
