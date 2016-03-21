@@ -105,13 +105,13 @@ a:visited {
 }
 
 .content {
-  max-width: $article-width;  
+  max-width: $article-width;
   padding: 1rem;
   margin-left: auto;
   margin-right: auto;
 
   > * {
-    max-width: $article-width;    
+    max-width: $article-width;
   }
 }
 
@@ -129,7 +129,7 @@ nav {
   letter-spacing: 1px;
   font-size: $font-size-9;
   @include media-query($desktop) {
-    display: block; 
+    display: block;
     text-align: left;
     font-size: $font-size-9;
     padding-top: 0.75rem;
@@ -139,7 +139,7 @@ nav {
   ul li {
     display: inline;
     padding-left: 1rem;
-    @include media-query($desktop) {      
+    @include media-query($desktop) {
       padding-left: 1rem;
     }
 
@@ -147,7 +147,7 @@ nav {
       padding-right: 0;
     }
   }
-  
+
   a {
     display: inline;
     padding-bottom: .125rem;
@@ -201,7 +201,7 @@ nav {
     margin-right: auto;
     margin-top: -13rem;
     max-width: 710px;
-  }  
+  }
 }
 
 .logo-small {
@@ -215,7 +215,7 @@ nav {
   width: 100%;
   @include media-query($desktop) {
     display: none;
-  }  
+  }
 }
 
 .post-content {
@@ -302,63 +302,15 @@ img{
 }
 
 .wf-active {
-  -webkit-transition: all 1s;  
+  -webkit-transition: all 1s;
   transition: all 1s;
   opacity: 1;
 }
 
-#newsletter-form {
-  padding: 1rem;
-  margin-top: 1rem;
-  label {
-    font-family: $base-font-family;
-    font-weight: 700;    
-    display: block;
-    padding-bottom: 1rem;
-  }
-  input {
-    display: block;
-    font-family: $base-font-family;
-  }
-  
-  #newsletter-email {
-    font-size: $font-size-1;
-    padding: .5rem;
-    margin-right: auto;
-    margin-left: auto;
-    width: 75%;
-    @include media-query($desktop) {
-    font-size: font-size-2;
-    /* on one line with subscribe button */
-    }
-  }
-  #newsletter-subscribe {
-    background-color: $red-orange;
-    border-radius: 0px;
-    font-family: $base-font-family;
-    font-weight: 700;
-    padding: 16px;
-    padding: 1rem;
-    margin-top: 16px;
-    margin-top: 1.5rem;
-    margin-right: auto;
-    margin-left: auto;
-    text-align: center;
-    font-size: $font-size-2;
-    line-height: 1rem;
-    max-width: 100%;
-    @include media-query($desktop) {
-    /* on one line with email input window */
-    }
-  }
-}
-
 .cta {
   margin-bottom: 1rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  padding-left: 0rem;
-  padding-right: 0rem;
+  padding: 0;
+
   #newsletter-form {
     background: white;
     border-radius: 0px;
@@ -367,18 +319,52 @@ img{
     border-color: $black;
     border-style: solid;
     padding: 3.5rem;
-  }
-  p {
-    font-weight: 700;
-  }
+    margin-top: 1rem;
+    text-align: center;
 
-  p:first-of-type {
-    padding-top: 1rem;
-  }
+    label {
+      font-family: $base-font-family;
+      font-weight: 700;
+      display: block;
+      padding-bottom: 1rem;
+    }
 
-  .arrow {
-    position: absolute;
-    margin-left: -100px;
-    margin-top: -125px;
+    input {
+      display: inline-block;
+      font-family: $base-font-family;
+    }
+
+    #newsletter-email {
+      font-size: $font-size-1;
+      height: 3.5rem;
+      padding: .5rem;
+      margin-right: auto;
+      margin-left: auto;
+      width: 20rem;
+      @include media-query($desktop) {
+        font-size: font-size-2;
+        /* on one line with subscribe button */
+      }
+    }
+
+    #newsletter-subscribe {
+      background-color: $red-orange;
+      border-radius: 0px;
+      font-family: $base-font-family;
+      font-weight: 700;
+      height: 3.5rem;
+      padding: 16px;
+      padding: 1rem;
+      margin-right: auto;
+      margin-left: auto;
+      text-align: center;
+      font-size: $font-size-2;
+      line-height: 1rem;
+      width: 10rem;
+      max-width: 100%;
+      @include media-query($desktop) {
+        /* on one line with email input window */
+      }
+    }
   }
 }
