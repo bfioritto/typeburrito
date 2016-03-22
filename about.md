@@ -22,7 +22,7 @@ When I'm not scrutinizing serifs, I'm running after my toddler son, "helping" my
 
 <h3>Why Type Burrito?</h3>
 
-My goal is that everything you want to know about typography will be here, wrapped up in one delicious package. (With or without guacamole: your choice!) The original inspiration comes from the fact (often pointed out by clever children or inebriated adults) that <i>burrito</i> sounds a lot like <i>Fioritto,</i> so I figure, why not roll with it?
+My goal is that everything you want to know about typography will be here, wrapped up in one delicious package. The original inspiration comes from the fact (often pointed out by clever children or inebriated adults) that <i>burrito</i> sounds a lot like <i>Fioritto,</i> so I figure, why not roll with it?
 
 <h3>The Logo</h3>
 
