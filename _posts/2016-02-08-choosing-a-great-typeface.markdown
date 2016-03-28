@@ -1,22 +1,26 @@
 ---
 layout: post
-title:  Combining Type with Confidence, Part 1&#58; Choosing a Great Typeface
+title:  Stop Feeling Dumb About Pairing Fonts
 date:   2016-02-08 11:25:01
 ---
 
-<i>This article is part 1 in a 2-part series on choosing and combining typefaces.</i>
+We’ve all been there: you’ve got a design direction and you’re ready to go, only to be sucked into hours of fruitless tinkering with different font combinations. And after all that, the result just looks like a missing cat poster. UGH.
 
-Ugh, picking type! Of course it's important—good typography is the foundation of good web design—but before you know it, you're looking at 20 nearly-identical typefaces, second-guessing yourself, and wondering whether it really matters which one you pick.
+You know you need to pick typefaces that will work well together, but it seems like there’s a lot more to it than meets the eye, and you don’t have a year to get up to speed on the ins and outs of typography.
 
-So then you go looking for help—lists of <a href="http://hellohappy.org/beautiful-web-type/">"great"</a> fonts, or the "best" of a particular <a href="https://www.typewolf.com/top-10-helvetica-alternatives">kind of font</a>, but you still have no way to pick between them or know what makes them "great" in the first place. So then you think maybe you could play it even safer and copy what someone else did. But that just leads to more self-doubt.
+Relax! You don’t need to know all the rules. A few simple guidelines and basic type knowledge will have you making great type choices in no time. In fact, you're already the expert on the most important part!
 
-First of all: you've GOT this! Choosing great type doesn't need to be magical and mysterious. In fact, you're already the expert on the most important part. You just need a straightforward way for evaluating type, and you'll be a type-picking machine in no time!
+<h2>Know the Objectives of Your Project Inside and Out</h2>
 
-<h2>Type: The Basics</h2>
+It’s hands-down the most important thing you need to know to pick type (or anything else for that matter). <em>The tighter you have your objectives in focus, the easier it is to make design decisions, and the better your decisions will be.</em> So when you’re picking type, keep those priorities in mind.
 
-The most important question you need to ask is "does this help to accomplish my design objectives?" And, good news, everyone! You're the expert on that. <em>The tighter you have your objectives in focus, the easier it is to make design decisions.</em> So when you're picking type, keep those priorities in mind.
+<h2>Part 1: Choosing Type</h2>
 
-Now for some Type 101! To figure out if a typeface is going to work for your project, you need to know your way around a letterform.
+We’ve got our objectives hammered out: Now for some Type 101! 
+
+<h2>The Basics</h2>
+
+How do you know if a typeface will work for your project? First, you need to know your way around a letterform.
 
 <img src="/images/choosing_type/x-height_counters_serifs.png" alt="diagram showing x-height, counters, serifs">
 
@@ -39,6 +43,10 @@ Now for some Type 101! To figure out if a typeface is going to work for your pro
 Display faces are for short text such as titles, signage, or headlines. They are designed to work best at larger sizes, and tend to be more expressive than text faces.
 
 Often the description of the typeface will tell you what kind of a typeface you’re looking at: heed to those labels. If they aren’t labeled, use the features above to steer you in the right direction.
+
+<i>No time to finishing reading? Shoot me your email and I’ll send you the PDF cheat sheet with the quick n' dirty version!</i>
+
+{% include cta.html %}
 
 <h2>Quality Digital Type</h2>
 
@@ -82,20 +90,64 @@ Even with these guidelines for picking type, the most important thing to keep in
 
 As a bonus, research helps you clarify your thinking. When you share your work with your client, you’ll be able to explain specifically why you made the choices you did. <em>They’ll appreciate your work all the more.</em>
 
-<h2>To Summarize...</h2>
+<h2>Choosing Type, in Summary</h2>
+<ul>
+	<li>1) Know the objectives of your project and internalize them.</li>
+	<li>2) Pick the right kind of type for the job.</li>
+	<li>3) Make sure the typeface is sufficiently complete for your needs.</li>
+	<li>4) No poorly-designed faces. Look for well-drawn characters and good kerning and spacing.</li>
+	<li>5) Do a little research.</li>
+	<br>
+</ul>
 
-How do you choose great type?
+<h2>Part 2: Pairing Type</h2>
 
-It starts with <em>knowing the requirements of your project</em>, and to keep that in focus as you make design decisions.
+It’s really not as magical and mysterious as people make it out to be. Now that you know a bit about typefaces, you can just apply the simple principle of unity and variety and you’ll be a type-pairing machine in no time.
 
-Pick the <em>right kind of type for the job.</em> Know the difference between a text face and a display face, and what elements of type will make it good for one or the other.
+But where to start?
 
-Make sure the typeface is <em>up to the challenge</em>: check that it has adequate characters for multiple languages and your typesetting needs, including proper punctuation.
+<h2>Start with the Text Face</h2>
 
-<em>Pick a well-drawn face</em> that doesn’t look awkward: look for good spacing and kerning, no clunky letterforms.
+Why? Because there’s more of it. It will have a bigger visual impact on your design, so make sure it’s spot-on. Just as importantly, the reader will spend much more time reading this typeface: pick something highly legible that can be read comfortably in long blocks. Choosing type is like picking a voice for your content. Your text face needs to be a newscaster: it’s essential that your type “speak” clearly so it can be understood by everyone.
 
-Don’t be afraid to <em>do some research.</em> A thoughtfully-chosen typeface can take your project to the next level and make you look like a superstar.
+Your display face can have a bit more character, but don’t go for anything overly difficult to read. The main job of type is to be read.
 
-I hope this has been helpful! If you liked this article, sign up now to get Part 2 (How to Pair Type) delivered to your inbox!
+<h2>Unity and Variety</h2>
+
+There's this concept in art of unity and variety—the idea is that all compositions need both. If a composition is only unified, the viewer may lose interest. If there’s too much variety, there’s nothing holding the composition together: it’s chaos.
+
+This applies to pairing type as well. When you are combining two typefaces, it is essential that there is some contrast between them (variety), as well as some elements in common (unity).
+
+Depending on the needs of your design, there are a few different approaches you can take:
+
+<em>Font Family.</em> This is a safe approach that works because the type is designed to work together. It can look a bit conservative because there's not a lot of contrast, but it's a sure-fire way to make sure your type pairing works.
+
+<img src="/images/combining_type/all_in_the_family.png" alt="type family acumin">
+
+<em>Serif with Sans-serif.</em> This is great approach because there's already an element of variety (serif vs. sans). Pick one as a display face, the other as the body.
+Since you're starting with a lot of contrast, look for ways to unify the two faces. Study the forms of the typefaces side by side: do they have a similar character width? A similar x-height? Are the round letters more geometric (perfectly round) or not? If the two faces don’t have some kind of structural commonality, they probably won’t work great together.
+
+<img src="/images/combining_type/serif_sans.png" alt="serif with sans-serif">
+
+<em>Like with Like.</em> It can be tricky to pair faces that share a classification (e.g. serif with serif). Just like the black shirt you washed one too many times doesn’t quite match your black pants, they’re close, but something is definitely off. But thinking in terms of unity and variety, you can still make great pairings. With this approach you start with a lot of unity, so seek out variety. One way is to find faces that have very different levels of contrast (the difference between thick and thin strokes). Other ways to create variety are through weight, width, and style: examine the type at a large size side by side to see what the letterforms offer for a good mix of unity and variety.
+
+<img src="/images/combining_type/like_with_like.png" alt="like with like">
+
+<em>Script and Handwriting Fonts.</em> I don’t advise using a script or handwriting font for body text, but when used thoughtfully, these can work as a display face with either a serif or sans-serif text face. You are starting with a lot of inherent contrast, so examine the structures of the letters to find some similarities. The letterforms themselves might not have a lot in common, but think about what each is communicating through its style (formal/informal, modern, traditional, etc) to bring harmony to the pairing.
+
+<img src="/images/combining_type/purpose_and_care.png" alt="use with purpose and care">
+
+If you have two fonts that work together but still seem a little too similar, try changing the size or weight to add some variety.
+
+Need more unity? The easiest place to start is to look at the shapes of the letterforms. Or try something more subtle and sophisticated: unify your typography by finding type designed around the same time, or to find type inspired by the same tool or medium (broad-nib pen, carved in stone, etc—you can usually figure this out with just a bit of googling).
+
+Pairing type doesn’t need to be mysterious or scary! <a href="http://typeburrito.com/2016/02/08/choosing-a-great-typeface.html">Start with quality typefaces,</a> think unity and variety, and pair away!
+
+Remember that you are the expert on the most important aspect of choosing and pairing type: the requirements of your project. The more you internalize your objectives, the better your choices will be.
+
+If you liked this article, don’t miss my cheat sheet for pairing Google Fonts! Type your email below to get the cheat sheet and more goodies just like it delivered straight to your inbox.
+
 
 {% include cta.html %}
+
+<i>All the example typefaces in this post are available either through <a href="https://typekit.com" >Typekit</a> or <a href="https://google.com/fonts" >Google Fonts.</a> Typefaces used: Adobe Caslon, Acumin Black, Acumin Light, Acumin Regular, Acumin Thin, Arvo, Baskerville, Dancing Script, Crimson Text, Fjalla One, Lato, Litania,  Ratio Modern, Sanchez Slab, Source Sans Regular. My blog is set in Proxima Nova and Clarendon URW.</i>
