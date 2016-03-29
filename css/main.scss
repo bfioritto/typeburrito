@@ -82,6 +82,18 @@ $desktop:        1024px;
   }
 }
 
+.banner-blank {
+  background: $background-color;
+  width: 100%;
+  max-width: 680px;
+  height: 80px;
+  margin-right: auto;
+  margin-left: auto;
+  @include media-query($desktop) {
+    height: 190px;
+  }
+}
+
 nav {
   display: block;
   max-width: $article-width;
@@ -146,6 +158,19 @@ nav {
   width: 100%;
   @include media-query($desktop) {
     display: none;
+  }
+}
+
+.logo-blank {
+  display: block;
+  text-align: right;
+  max-width: 710px;
+  padding-right: 1rem;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+  @include media-query($desktop) {
+    margin-top: 1rem;
   }
 }
 
@@ -373,6 +398,9 @@ body {
     padding: 3.5rem;
     margin-top: 1rem;
     text-align: center;
+    max-width: 710px;
+    margin-right: auto;
+    margin-left: auto;
 
     label {
       font-family: $base-font-family;

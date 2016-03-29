@@ -95,7 +95,7 @@ As a bonus, research helps you clarify your thinking. When you share your work w
 	<li>1) Know the objectives of your project and internalize them.</li>
 	<li>2) Pick the right kind of type for the job.</li>
 	<li>3) Make sure the typeface is sufficiently complete for your needs.</li>
-	<li>4) No poorly-designed faces. Look for well-drawn characters and good kerning and spacing.</li>
+	<li>4) Look for well-drawn characters and good kerning and spacing.</li>
 	<li>5) Do a little research.</li>
 	<br>
 </ul>
@@ -150,4 +150,4 @@ If you liked this article, don’t miss my cheat sheet for pairing Google Fonts!
 
 {% include cta.html %}
 
-<i>All the example typefaces in this post are available either through <a href="https://typekit.com" >Typekit</a> or <a href="https://google.com/fonts" >Google Fonts.</a> Typefaces used: Adobe Caslon, Acumin Black, Acumin Light, Acumin Regular, Acumin Thin, Arvo, Baskerville, Dancing Script, Crimson Text, Fjalla One, Lato, Litania,  Ratio Modern, Sanchez Slab, Source Sans Regular. My blog is set in Proxima Nova and Clarendon URW.</i>
+<i>All the example typefaces in this post are available either through <a href="https://typekit.com" >Typekit</a> or <a href="https://google.com/fonts" >Google Fonts.</a> Typefaces used: Acumin Black, Acumin Light, Acumin Regular, Arvo, Baskerville, Dancing Script, Crimson Text, Fjalla One, Lato, Sanchez Slab, Source Sans Regular. My blog is set in Proxima Nova and Clarendon URW.</i>
