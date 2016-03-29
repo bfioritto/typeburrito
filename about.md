@@ -18,7 +18,7 @@ I am a web design consultant and I'm fascinated with the dual nature of type—i
 
 Designers have both expertise and gaps in their knowledge that differ widely from one designer to the next. We're continually learning new skills and honing our craft. I hope this site will be a resource and a source of inspiration as you deepen your knowledge and practice of typography.
 
-When I'm not scrutinizing serifs, I'm running after my toddler son, "helping" my husband cook dinner, going for walks, singing in a choir, renovating my house, and binge-watching House of Cards.
+When I'm not scrutinizing serifs, I'm running after my toddler son, helping (er, watching) my husband cook dinner, going for walks, singing in a choir, renovating my house, and binge-watching House of Cards.
 
 <h3>Why Type Burrito?</h3>
 

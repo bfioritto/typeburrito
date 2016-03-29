@@ -23,6 +23,7 @@ $article-width: 710px;
 $background-color: rgb(240, 240, 240);
 $grey: rgb(150, 150, 150);
 $black: rgb(0, 0, 0);
+$white: rgb(255, 255, 255);
 $red-orange: rgb(210, 61, 39);
 $red-orange-bright: rgb(240, 55, 35);
 $red-orange-dark: rgb(155, 50, 30);
@@ -387,7 +388,7 @@ body {
 
     #newsletter-email {
       font-size: $font-size-1;
-      height: 3.5rem;
+      height: 55px;
       padding: .5rem;
       margin-bottom: 1rem;
       margin-right: auto;
@@ -413,19 +414,22 @@ body {
       border-color: $grey;
       border-style: solid;
       font-family: $base-font-family;
-      font-weight: 700;
-      height: 3.5rem;
-      padding: 16px;
+      font-weight: 600;
+      height: 55px;
       padding: 1rem;
       margin-right: auto;
       margin-left: auto;
       margin-top: 1rem;
       text-align: center;
-      font-size: $font-size-2;
+      text-decoration: none;
+      letter-spacing: 1px;
+      font-size: $font-size-1;
+      color: $white;
       line-height: 1rem;
-      width: 10rem;
+      width: 12rem;
       max-width: 100%;
       @include media-query($desktop) {
+        font-size: $font-size-2;
         /* on one line with email input window */
       }
     }

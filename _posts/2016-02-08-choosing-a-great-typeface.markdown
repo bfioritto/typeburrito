@@ -44,7 +44,7 @@ Display faces are for short text such as titles, signage, or headlines. They are
 
 Often the description of the typeface will tell you what kind of a typeface you’re looking at: heed to those labels. If they aren’t labeled, use the features above to steer you in the right direction.
 
-<i>No time to finishing reading? Shoot me your email and I’ll send you the PDF cheat sheet with the quick n' dirty version!</i>
+<i>No time to finish reading? Shoot me your email and I’ll send you the PDF cheat sheet with the quick n' dirty version!</i>
 
 {% include cta.html %}
 
