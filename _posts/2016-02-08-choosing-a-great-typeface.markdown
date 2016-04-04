@@ -150,4 +150,4 @@ If you liked this article, don’t miss my cheat sheet for pairing Google Fonts!
 
 {% include cta.html %}
 
-<i>All the example typefaces in this post are available either through <a href="https://typekit.com" >Typekit</a> or <a href="https://google.com/fonts" >Google Fonts.</a> Typefaces used: Acumin Black, Acumin Light, Acumin Regular, Arvo, Baskerville, Dancing Script, Crimson Text, Fjalla One, Lato, Sanchez Slab, Source Sans Regular. My blog is set in Proxima Nova and Clarendon URW.</i>
+<i>All the example typefaces in this post are available either through <a href="https://typekit.com" >Typekit</a> or <a href="https://google.com/fonts" >Google Fonts.</a> Typefaces used: Acumin Black, Acumin Light, Acumin Regular, Arvo, Baskerville, Dancing Script, Crimson Text, Fjalla One, Lato, Sanchez Slab, Source Sans Regular. My blog is set in Pragmatica Web and Clarendon URW.</i>
