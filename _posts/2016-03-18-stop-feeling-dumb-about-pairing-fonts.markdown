@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Stop Feeling Dumb About Pairing Fonts
-date:   2016-02-08 11:25:01
+date:   2016-03-18 11:25:01
 ---
 
 We’ve all been there: you’ve got a design direction and you’re ready to go, only to be sucked into hours of fruitless tinkering with different font combinations. And after all that, the result just looks like a missing cat poster. UGH.
@@ -22,7 +22,7 @@ We’ve got our objectives hammered out: Now for some Type 101!
 
 How do you know if a typeface will work for your project? First, you need to know your way around a letterform.
 
-<img src="/images/choosing_type/x-height_counters_serifs.png" alt="diagram showing x-height, counters, serifs">
+<img src="/images/combining_type/x-height_counters_serifs.png" alt="diagram showing x-height, counters, serifs">
 
 <em>X-height:</em> The height of most lowercase letters (such as the letter x) in the typeface. At small sizes, shorter x-heights are generally harder to read than taller x-heights.
 
@@ -32,11 +32,11 @@ How do you know if a typeface will work for your project? First, you need to kno
 
 <em>Contrast:</em> The difference between the thickest and thinnest parts of a letter. High-contrast type is harder to read at small sizes. The thin parts seem to disappear, so letters are harder to make out. Even if you can see the fine lines, an effect called dazzling makes small, high-contrast type uncomfortable for reading. Avoid it at small sizes.
 
-<img src="/images/choosing_type/contrast.png" alt="contrast diagram">
+<img src="/images/combining_type/contrast.png" alt="contrast diagram">
 
 <em>Color:</em> When talking about type this actually has nothing to do with actual color, but with how dark or light a block of text looks from afar: if it’s too dark and dense it can be difficult to read. Don’t use bold weights for long blocks of text, and if necessary add more line spacing if your paragraphs look daunting to read.
 
-<img src="/images/choosing_type/color.png" alt="text block color illustration">
+<img src="/images/combining_type/color.png" alt="text block color illustration">
 
 <em>Text Faces vs. Display Faces:</em> Most type is designed with a specific context in mind. Type for small sizes, intended for longer reading, is called a text face and is designed to be legible and comfortable for reading at “text” sizes.
 
@@ -86,7 +86,7 @@ There are a lot of great free fonts out there, but it’s important to know what
 
 Even with these guidelines for picking type, the most important thing to keep in mind is the needs of your project. Spending some time up front doing research will help your type design sparkle. Consider what you’re trying to communicate and how your type can help you. Type from a certain time period, designed for a certain industry or medium, or to use in a particular context can go far in subtly highlighting ideas you’re trying to express.
 
-<img src="/images/choosing_type/content_appropriate.png" alt="illustration of content-appropriate type choice">
+<img src="/images/combining_type/content_appropriate.png" alt="illustration of content-appropriate type choice">
 
 As a bonus, research helps you clarify your thinking. When you share your work with your client, you’ll be able to explain specifically why you made the choices you did. <em>They’ll appreciate your work all the more.</em>
 
