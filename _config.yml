@@ -4,9 +4,9 @@ email: beth.lukes@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Everything you want to know about typography wrapped up in one delicious package.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://typeburrito.com" # the base hostname & protocol for your site
+twitter_username: bfioritto
+github_username:  bfioritto
 
 # Build settings
 markdown: kramdown
