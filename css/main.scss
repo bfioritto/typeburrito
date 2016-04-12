@@ -394,7 +394,6 @@ body {
     border-style: solid;
     padding: 3.5rem;
     margin-top: 1rem;
-    text-align: center;
     max-width: 710px;
     margin-right: auto;
     margin-left: auto;
@@ -407,8 +406,9 @@ body {
     }
 
     input {
-      display: inline-block;
+      display: block;
       font-family: $base-font-family;
+      margin: 0 auto;
     }
 
     #newsletter-email {
@@ -416,9 +416,7 @@ body {
       height: 56px;
       padding: .5rem;
       margin-bottom: 1rem;
-      margin-right: auto;
-      margin-left: auto;
-      width: 20rem;
+      width: 100%;
       @include media-query($desktop) {
         font-size: font-size-2;
         /* on one line with subscribe button */
@@ -442,16 +440,13 @@ body {
       font-weight: 700;
       height: 55px;
       padding: 1rem;
-      margin-right: auto;
-      margin-left: auto;
       margin-top: 1rem;
       text-align: center;
       text-decoration: none;
-      letter-spacing: 1px;
       font-size: $font-size-1;
       color: $white;
       line-height: 1rem;
-      width: 12rem;
+      width: 24rem;
       max-width: 100%;
       @include media-query($desktop) {
         font-size: $font-size-2;
