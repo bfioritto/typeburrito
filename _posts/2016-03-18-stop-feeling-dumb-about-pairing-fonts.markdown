@@ -18,6 +18,10 @@ It’s hands-down the most important thing you need to know to pick type (or any
 
 We’ve got our objectives hammered out: Now for some Type 101! 
 
+(Just a heads-up: this post is pretty long—and informative, so definitely bookmark this for later!—but if you don't have time right now, just enter your email address below and I'll send you the cheat sheet version, just as soon as I finish it :-)
+
+{% include cta.html %}
+
 <h2>The Basics</h2>
 
 How do you know if a typeface will work for your project? First, you need to know your way around a letterform.
@@ -43,10 +47,6 @@ How do you know if a typeface will work for your project? First, you need to kno
 Display faces are for short text such as titles, signage, or headlines. They are designed to work best at larger sizes, and tend to be more expressive than text faces.
 
 Often the description of the typeface will tell you what kind of a typeface you’re looking at: heed to those labels. If they aren’t labeled, use the features above to steer you in the right direction.
-
-<i>No time to finish reading? Shoot me your email and I’ll send you the PDF cheat sheet with the quick n' dirty version!</i>
-
-{% include cta.html %}
 
 <h2>Quality Digital Type</h2>
 
