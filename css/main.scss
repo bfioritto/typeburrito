@@ -58,10 +58,6 @@ $desktop:        1024px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "syntax-highlighting";
 
-
-
-
-
 /* top of the page: nav, banner, logo styling */
 
 .banner {
@@ -462,5 +458,12 @@ body {
         /* on one line with email input window */
       }
     }
+  }
+}
+
+.confirmation {
+  text-align: center;
+  p{
+    padding-bottom: 1rem;
   }
 }
