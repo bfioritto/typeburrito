@@ -12,9 +12,9 @@ permalink: /about/
 	<img src="/images/beth_portrait.jpg" alt="beth portrait" width="150px">
 </div>
 
-Type Burrito is a project of Beth Fioritto (that's me!)
+Hi there, I'm Beth Fioritto.
 
-I am a web design consultant and I'm fascinated with the dual nature of type—its beauty, its utility. Detail-oriented is my middle name. Want to work with me? Get in touch at beth.lukes@gmail.com.
+I'm a web design consultant and I love all things type. Detail-oriented is my middle name. Interested in working with me? Get in touch at beth.lukes@gmail.com.
 
 Designers have both expertise and gaps in their knowledge that differ widely from one designer to the next. We're continually learning new skills and honing our craft. I hope this site will be a resource and a source of inspiration as you deepen your knowledge and practice of typography.
 
