@@ -4,7 +4,7 @@ title:  13 Proxima Nova Alternatives
 date:   2016-05-09 11:25:01
 ---
 
-It's no secret: web designers love them some Proxima Nova. And with good reason: It’s a great go-to. A beautiful, clean sans-serif that’s geometric but not, you know, too geometric. But as one of the most prevalent typefaces on the web several years running, it's starting to feel like we're stuck in a rut.
+It's no secret: web designers love Proxima Nova. And with good reason: It’s a great go-to. A beautiful, clean sans-serif that’s geometric but not, you know, too geometric. But as one of the most prevalent typefaces on the web several years running, it's starting to feel like we're stuck in a rut.
 
 Why not branch out a little and go for a less-used typeface that still fits the bill? Here are some of my favorite options.
 
