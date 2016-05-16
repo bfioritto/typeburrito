@@ -4,9 +4,11 @@ title:  13 Proxima Nova Alternatives
 date:   2016-05-09 11:25:01
 ---
 
-It's no secret: web designers love Proxima Nova. And with good reason: It’s a great go-to. A beautiful, clean sans-serif that’s geometric but not, you know, too geometric. But as one of the most prevalent typefaces on the web several years running, it's starting to feel like we're stuck in a rut.
+<a href="http://www.myfonts.com/fonts/marksimonson/proxima-nova/"><img src="/images/proxima_nova/proxima_nova.png" alt="Proxima Nova Type Specimen"></a>
 
-Why not branch out a little and go for a less-used typeface that still fits the bill? Here are some of my favorite options.
+It's no secret: web designers love Proxima Nova. And with good reason: It’s a great go-to. A beautiful, clean sans-serif that’s geometric but not, you know, <i>too</i> geometric. But as one of the most prevalent typefaces on the web several years running, it's starting to feel like we're stuck in a rut.
+
+<em>Break away from the pack with a fresh font choice!</em> These 13 typefaces are really clean and geometric like Proxima Nova, but they'll also lend a unique voice to your next project. 
 
 <h2>Avenir Next</h2>
 Avenir was designed by Adrian Frutiger in 1988 and he considered it his greatest work. He worked with Linotype in 2003 to develop a version with a larger font family that was also better suited for the screen. <a href="https://www.linotype.com/90672/avenir-next-family.html?gclid=CLyDlJOO0MwCFQ8vaQodC_oBug">Avenir Next</a> was the result. Definitely a modern classic. 
