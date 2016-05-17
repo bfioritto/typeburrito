@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Just Say NOva <h5>13 Alternatives to Proxima Nova</h5>
+title:  Just Say NOva
 date:   2016-05-09 11:25:01
 ---
 
+<h5> 13 Fresh Alternatives to Proxima Nova</h5>
 
 <a href="http://www.myfonts.com/fonts/marksimonson/proxima-nova/"><img src="/images/proxima_nova/proxima_nova.png" alt="Proxima Nova Type Specimen"></a>
 
