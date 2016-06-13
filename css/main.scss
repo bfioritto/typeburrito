@@ -357,11 +357,30 @@ body {
 
 
 
-/* special elements: fancy titles, boxes, etc */
+
+/* special and fancy one-time use elements */
 
 .special-title {
     font-family: $header-font-family;
     font-weight: 300;
+    color: $red-orange;
+    font-size: $font-size-5;
+    text-align: center;
+    line-height: 1.2;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    @include media-query($desktop) {
+      font-size: $font-size-6;
+      padding-top: 1rem;
+      margin: 0;
+    }
+}
+
+.coming-soon {
+font-family: $header-font-family;
+    font-weight: 700;
     color: $red-orange;
     font-size: $font-size-5;
     text-align: center;
