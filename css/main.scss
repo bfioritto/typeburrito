@@ -378,24 +378,6 @@ body {
     }
 }
 
-.coming-soon {
-font-family: $header-font-family;
-    font-weight: 700;
-    color: $red-orange;
-    font-size: $font-size-5;
-    text-align: center;
-    line-height: 1.2;
-    padding-top: 1rem;
-    padding-bottom: 2rem;
-    margin-left: auto;
-    margin-right: auto;
-    @include media-query($desktop) {
-      font-size: $font-size-6;
-      padding-top: 1rem;
-      margin: 0;
-    }
-}
-
 .sub-title {
     font-family: $base-font-family;
     font-weight: 700;
@@ -584,4 +566,63 @@ p {
 
 .sharing {
   padding-top: 1rem;
+}
+
+$coming-soon-grey: rgb(77, 77, 77);
+$skinny-font: $header-font-family;
+$main-font: $base-font-family;
+$slab-serif: $base-font-family;
+.coming-soon {
+  background: $grey;
+  margin-top: 2rem;
+  padding-bottom: 3rem;
+
+  > * {
+    text-align: center;
+  }
+
+  > p {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: $red-orange;
+    padding: 0;
+  }
+
+  h2 {
+    text-transform: uppercase;
+    font-family: $skinny-font;
+    color: $coming-soon-grey;
+    padding: 0;
+    transform: rotateZ(-15deg) translateY(1rem) translateX(-1rem);
+    z-index: 2;
+  }
+
+  .under-h2 {
+    background: $red-orange;
+    padding: 0;
+    height: 3rem;
+    transform: rotateZ(-15deg) translateY(4rem) translateX(-1rem) skewX(-25deg);
+    z-index: 1;
+  }
+
+  .first-line {
+    font-family: $main-font;
+    font-size: 4rem;
+    border-top: 8px solid $red-orange;
+    margin-top: 7rem;
+  }
+
+  .second-line {
+    background: $red-orange;
+    color: $coming-soon-grey;
+    text-transform: uppercase;
+    font-family: $skinny-font;
+    font-size: 3rem;
+  }
+
+  .third-line {
+    border-bottom: 8px solid $red-orange;
+    font-family: $slab-serif;
+  }
 }
