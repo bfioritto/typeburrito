@@ -568,14 +568,21 @@ p {
   padding-top: 1rem;
 }
 
+
+
+
+/* coming soon */
+
 $coming-soon-grey: rgb(77, 77, 77);
 $skinny-font: $header-font-family;
 $main-font: $base-font-family;
 $slab-serif: $base-font-family;
 .coming-soon {
   background: $coming-soon-grey;
-  margin-top: 2rem;
-  padding-bottom: 3rem;
+  padding-bottom: 2.8rem;
+  padding-top: 2.8rem;
+  margin-top: 5rem;
+  margin-bottom: 2rem;
 
   > * {
     text-align: center;
@@ -590,33 +597,49 @@ $slab-serif: $base-font-family;
     padding: 0;
   }
 
-  h2 {
+  .first-line {
     text-transform: uppercase;
     font-family: "hoosier-daddy";
     font-weight: 800;
-    font-size: $font-size-7;
+    font-size: 5.4rem;
     letter-spacing: 5px;
-    color: $red-orange;
-    padding: 0;
-  }
-
-  .first-line {
-    font-family: $main-font;
-    font-size: 4rem;
     border-top: 8px solid $red-orange;
-    margin-top: 7rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.6rem;
+    line-height: 6.4rem;
+    color: $red-orange;
   }
 
   .second-line {
-    background: $red-orange;
-    color: $coming-soon-grey;
-    text-transform: uppercase;
-    font-family: $skinny-font;
-    font-size: 3rem;
+    font-family: "acumin-pro-extra-condensed";
+    font-weight: 200;
+    font-size: 10.5rem;
+    border-top: 8px solid $red-orange;
+    padding-top: 0rem;
+    padding-bottom: 2.9rem;
+    line-height: 9rem;
+    
   }
 
   .third-line {
+    background: $red-orange;
+    color: $coming-soon-grey;
+    text-transform: uppercase;
+    font-family: "proxima-nova-alt";
+    font-weight: 300;
+    font-size: 1.5rem;
+    letter-spacing: 4px;
+  }
+
+  .fourth-line {
     border-bottom: 8px solid $red-orange;
-    font-family: $slab-serif;
+    font-family: $header-font-family;
+    font-size: 3.8rem;
+    font-weight: 800;
+    letter-spacing: 1px;
   }
 }
+
+
+
+
