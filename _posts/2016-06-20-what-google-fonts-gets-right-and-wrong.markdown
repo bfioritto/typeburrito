@@ -10,17 +10,21 @@ This redesign in many ways feels really well thought out: Google is clearly tryi
 
 <h2>Usability</h2>
 
-It’s obvious how much thought went into the process of font selection (though not of finding fonts!—more on that later), a consideration which was completely absent from the old Google Fonts. It’s much easier to get a sense of the look and feel of the font from the sample “tag,” and it’s easier to differentiate the typefaces in this layout as well. Previously, no matter what view you chose, the page felt busy. The new layout is much easier to make sense of.
+<em>It’s obvious how much thought went into the process of font selection</em> (though not of finding fonts!—more on that later), a consideration <em>which was completely absent from the old Google Fonts.</em> It’s much easier to get a sense of the look and feel of the font from the sample “tag,” and it’s easier to differentiate the typefaces in this layout as well. Previously, no matter what view you chose, the page felt busy. The new layout is much easier to make sense of.
 
 Another improvement in usability: when you pick fonts it’s easy to tell what’s happening, and what actions you can take (did you ever click the “expand styles” icon thinking it was a download icon in the <a href="https://www.google.com/fonts">old version</a>?). The only element of color (without hovering) is the selection icon. And no more “collections.” The load time indicator is also a nice touch.
 
+<img src="/images/google_fonts/old_google_fonts_usability.png" alt="Old Google Fonts Usability Diagram">
+
+<img src="/images/google_fonts/new_google_fonts_usability.gif" alt="New Google Fonts Usability Diagram">
+
 <h2>Elevating Typography</h2>
 
-My favorite improvement is the the amount of information given about each font. The "about" section for each typeface provides users with context like historical inspirations or the particular medium or function the type was designed for. That kind of information is incredibly useful when trying to choose the right type for the job. 
+My favorite improvement is the the amount of information given about each font. <em>The “about” section for each typeface provides users with context like historical inspirations or the particular medium or function the type was designed for.</em> That kind of information is incredibly useful when trying to choose the right type for the job.
 
-Kudos also for the type designer bios. This is another touch that highlights quality and the craft of type design, which is further underscored by the “about” section, more polished font tags, and the “featured” section. Not to mention, Google Fonts continues to expand its offerings with legitimately excellent typefaces. 
+Kudos also for the <em>type designer bios. This is another touch that highlights quality and the craft of type design,</em> which is further underscored by the “about” section, more polished font tags, and the “featured” section. Not to mention, Google Fonts continues to expand its offerings with legitimately excellent typefaces. 
 
-Google Fonts is sometimes viewed with disdain among certain design professionals (though just as many are big fans for a variety of reasons) because it is seen as undercutting the value of type design. My feeling on this? There will always be a role for free fonts to play, and there will always be a need for highly skilled type designers who deserve to be paid for their craft. And by upping their game, Google Fonts is educating their users about the value these designers bring. I would guess that a sizable portion of free font users have never paid for a  typeface—a more discerning user of type will come to see the value of great type, and then perhaps the value of purchasing type.
+Google Fonts is sometimes viewed with disdain among certain design professionals (though just as many are big fans for a variety of reasons) because it is seen as undercutting the value of type design. My feeling on this? There will always be a role for free fonts to play, and there will always be a need for highly skilled type designers who deserve to be paid for their craft. <em>And by upping their game, Google Fonts is educating their users about the value these designers bring.</em> I would guess that a sizable portion of free font users have never paid for a  typeface—a more discerning user of type will come to see the value of great type, and then perhaps the value of purchasing type.
 
 <h2>Other Nice Things</h2>
 
@@ -28,19 +32,19 @@ A lot of the other changes seem nice but not life-changing. The color themes are
 
 At this point the “Featured” page is not super-useful, but I imagine they’ll be adding more and doing more with it. It’s indicative of the redesign’s philosophy of highlighting quality and craft, and the aspiration of becoming a more serious type resource. 
 
-One change that had me scratching my head: the “usage by country” pie charts. There are plenty of usage metrics that translate into useful features (sorting by trending fonts is an example) but why would anyone need to know which country uses a font the most? This isn’t even a comparison between fonts (which might also be useful). There’s probably something I’m missing here, but whatever it is, I doubt it needs to be featured so prominently.
+<em>One change that had me scratching my head: the “usage by country” pie charts.</em> There are plenty of usage metrics that translate into useful features (sorting by trending fonts is an example) but why would anyone need to know which country uses a font the most? This isn’t even a comparison between fonts (which might also be useful). There’s probably something I’m missing here, but whatever it is, I doubt it needs to be featured so prominently.
 
 <h2>Font Classification</h2>
 
-I know there are myriad ways to classify fonts, but with all the other attention to detail on the redesign, I wish this had gotten a little more love. I have always found Google Fonts’ search categories counterintuitive, and I’m surprised they kept them the same. Each of the categories is basically a list of fonts. When you select multiple categories, you get <i>more</i> results, not fewer. It's the opposite of both expectation and function (you're trying to narrow down your choices to pick a font). If I search a clothing site for dresses, in black, in a size 2, each of those criteria narrows my search. Why doesn’t the same thing happen when I want, say, a serif display face? Instead I get all the serif typefaces, <i>plus</i> all the display faces.
+I know there are myriad ways to classify fonts, but <em>with all the other attention to detail on the redesign, I wish this had gotten a little more love.</em> I have always found Google Fonts’ search categories counterintuitive, and I’m surprised they kept them the same. Each of the categories is basically a list of fonts. <em>When you select multiple categories, you get <i>more</i> results, not fewer.</em> It's the opposite of both expectation and function (you're trying to narrow down your choices to pick a font). If I search a clothing site for dresses, in black, in a size 2, each of those criteria narrows my search. Why doesn’t the same thing happen when I want, say, a serif display face? Instead I get all the serif typefaces, <i>plus</i> all the display faces.
 
 <img src="/images/google_fonts/overlapping_classification.png" alt="Overlapping Classification">
 
-Another way classification could have been improved would be to expand the number of categories. People may not agree on the nitpicky details of font classification, but wouldn’t it be handy to be able to search for slab serifs, or maybe add a script category separate from handwriting? 
+<em>Another way classification could have been improved would be to expand the number of categories.</em> People may not agree on the nitpicky details of font classification, but wouldn’t it be handy to be able to search for slab serifs, or maybe add a script category separate from handwriting? 
 
 I will say to Google’s credit, where they have only one style of a typeface, they list it as a display face (even if the complete family would be a text face), so you don’t get over-excited about a particular font only to realize there are no bold or italic styles. 
 
-However, a few fonts are just plain misclassified. I found a script in the sans serif list, a literally identical script (to my eye at least) listed as a display face, and neither of them listed as a handwriting font, where the majority of scripts were located. (Of course, that’s a result of the current organization system forcing you to choose between display or handwriting rather than tagging a typeface as both, which underscores the importance of overlapping classification rather than separate lists.) Methodical organization should be high on the priority list for a type website: If I can’t find it, I can’t use it. 
+However, a few fonts are just plain misclassified. I found a script in the sans serif list, a literally identical script (to my eye at least) listed as a display face, and neither of them listed as a handwriting font, where the majority of scripts were located. (Of course, that’s a result of the current organization system forcing you to choose between display or handwriting rather than tagging a typeface as both, which underscores the importance of overlapping classification rather than separate lists.) <em>Methodical organization should be high on the priority list for a type website: If I can’t find it, I can’t use it.</em>
 
 <img src="/images/google_fonts/script_comparison.png" alt="Script Comparison">
 

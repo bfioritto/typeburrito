@@ -21,7 +21,7 @@ $article-width: 710px;
 
 
 $background-color: rgb(240, 240, 240);
-$grey: rgb(150, 150, 150);
+$grey: rgb(140, 140, 140);
 $black: rgb(0, 0, 0);
 $white: rgb(255, 255, 255);
 $red-orange: rgb(210, 61, 39);
@@ -231,6 +231,13 @@ i {
   font-style: italic;
 }
 
+blockquote {
+  color: $grey;
+  font-family: $base-font-family;
+  font-weight: 300;
+  font-size: $font-size-3;
+  font-style: italic;
+}
 
 
 
