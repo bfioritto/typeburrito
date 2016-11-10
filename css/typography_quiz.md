@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Typography Quiz
+title:  Think You Know Typography? Get Ready to Mind Your p's and q's!
 permalink: /typography_quiz/
 ---
 

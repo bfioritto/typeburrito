@@ -7,13 +7,14 @@
 // Our variables
 $base-font-family: "pragmatica-web", sans-serif;
 $header-font-family: "clarendon-urw", serif;
-$font-size-1: 1.2rem;
-$font-size-2: 1.44rem;
-$font-size-3: 1.73rem;
-$font-size-4: 2.07rem;
-$font-size-5: 2.49rem;
-$font-size-6: 2.79rem; /* modular scale here should be 2.99 */
-$font-size-7: 3.58rem;
+$font-size-1: 1rem;
+$font-size-2: 1.2rem;
+$font-size-3: 1.44rem;
+$font-size-4: 1.73rem;
+$font-size-5: 2.07rem;
+$font-size-6: 2.49rem;
+$font-size-7: 2.79rem; /* modular scale here should be 2.99 */
+$font-size-8: 3.58rem;
 $font-size-9: 1rem;
 $base-line-height: 1.6;
 $article-width: 710px;
@@ -29,8 +30,8 @@ $red-orange-bright: rgb(240, 55, 35);
 $red-orange-dark: rgb(155, 50, 30);
 $red-orange-light: rgb(240, 160, 140);
 $teal: rgb(5, 110, 115);
-$link: rgb(210, 61, 39);
-$link-visited: rgb(140, 40, 30);
+$link: rgb(218, 94, 120);
+$link-visited: rgb(165, 46, 87);
 
 $desktop:        1024px;
 
@@ -68,14 +69,8 @@ $desktop:        1024px;
   height: 140px;
   margin-right: auto;
   margin-left: auto;
-  border-bottom: 2px;
-  border-style: solid;
-  border-color: $red-orange;
   @include media-query($desktop) {
     height: 300px;
-    border-bottom: 5px;
-  border-style: solid;
-  border-color: $red-orange;
   }
 }
 
@@ -99,7 +94,7 @@ nav {
   padding-top: .5rem;
   padding-bottom: .5rem;
   padding-right: .5rem;
-  font-weight: 700;
+  font-weight: 500;
   font-color: $black;
   text-align: left;
   letter-spacing: 1px;
@@ -136,11 +131,12 @@ nav {
   display: none;
   @include media-query($desktop) {
     display: block;
-    text-align: right;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
-    margin-top: -14.5rem;
+    margin-top: -16.5rem;
     max-width: 710px;
+    width: 29%;
   }
 }
 
@@ -148,11 +144,11 @@ nav {
   display: block;
   text-align: right;
   max-width: 710px;
-  margin-top: -8rem;
-  margin-bottom: 1rem;
+  margin-top: -8.5rem;
+  margin-bottom: 0rem;
   margin-right: auto;
   margin-left: auto;
-  width: 100%;
+  width: 35%;
   @include media-query($desktop) {
     display: none;
   }
@@ -160,12 +156,11 @@ nav {
 
 .logo-blank {
   display: block;
-  text-align: right;
+  text-align: center;
   max-width: 710px;
-  padding-right: 1rem;
   margin-right: auto;
   margin-left: auto;
-  width: 100%;
+  width: 29%;
   @include media-query($desktop) {
     margin-top: 1rem;
   }
@@ -252,13 +247,13 @@ blockquote {
     color: $black;
     font-size: $font-size-5;
     line-height: 1.2;
-    padding-top: 2.75rem;
-    padding-bottom: 3rem;
+    padding-top: 0rem;
+    padding-bottom: 1.5rem;
     margin-left: auto;
     margin-right: auto;
     @include media-query($desktop) {
       font-size: $font-size-6;
-      padding-top: 7rem;
+      padding-top: 3rem;
       margin: 0;
     }
   }
@@ -269,7 +264,7 @@ blockquote {
     font-size: $font-size-1;
     font-family: $base-font-family;
     font-weight: 700;
-    padding-bottom: 3rem;
+    padding-bottom: 2.75rem;
     margin-left: auto;
     margin-right: auto;
     @include media-query($desktop) {
@@ -365,7 +360,7 @@ body {
 
 
 
-/* special and fancy one-time use elements */
+/* cheat sheet special styling */
 
 .special-title {
     font-family: $header-font-family;
@@ -381,18 +376,18 @@ body {
     @include media-query($desktop) {
       font-size: $font-size-6;
       padding-top: 1rem;
-      margin: 0;
+      margin: 2rem;
     }
 }
 
 .sub-title {
     font-family: $base-font-family;
-    font-weight: 700;
+    font-weight: 500;
     color: $red-orange;
     font-size: $font-size-2;
     text-transform: uppercase;
     text-align: center;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     line-height: 1.2;
     padding-top: 0rem;
     padding-bottom: 2rem;
@@ -439,9 +434,6 @@ body {
   font-weight: 700;
 }
 
-p {
-  padding-bottom: 1rem;
-}
 
 
 

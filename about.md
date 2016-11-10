@@ -23,9 +23,3 @@ When I'm not scrutinizing serifs, I'm running after my toddler son, helping (er,
 <h3>Why Type Burrito?</h3>
 
 My goal is that everything you want to know about typography will be here, wrapped up in one delicious package. The original inspiration comes from the fact (often pointed out by clever children or inebriated adults) that <i>burrito</i> sounds a lot like <i>Fioritto,</i> so I figure, why not roll with it?
-
-<h3>The Logo</h3>
-
-The Type Burrito logo is set in <a href="https://www.google.com/fonts/specimen/Ultra">Ultra</a> and the words are filled with an image of metal type in a type-setting tray. The photograph was taken by flickr user <a href="https://www.flickr.com/photos/matt_moonlight/9171680561/in/faves-54686491@N00/">"Matt Moonlight,"</a> some rights reserved.
-
-
