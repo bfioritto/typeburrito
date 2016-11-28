@@ -28,16 +28,23 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <link href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAYAAABPYyMiAAAABmJLR0T///////8JWPfcAAAACXBIWXMAAABIAAAASABGyWs+AAAAF0lEQVRIx2NgGAWjYBSMglEwCkbBSAcACBAAAeaR9cIAAAAASUVORK5CYII=" rel="icon" type="image/x-icon" />
-  
+
+  {% if page.styles %}
+  {% for style in page.styles %}
+  <link rel="stylesheet" type="text/css" href="/css/{{ style }}" />
+  {% endfor %}
+  {% endif %}
+
+
   <script src="//load.sumome.com/" data-sumo-site-id="0fa3dc0aa84f0a94b6636eb97b256c27cd06ee8fcd76218f5a6f3204897182e1" async="async"></script>
-  
+
   <script>
    // Do this just in case typekit fails.
    setTimeout(function(){
      document.documentElement.classList.add("wf-active")
    }, 3000);
   </script>
-  
+
   <meta name="google-site-verification" content="n4F6E3P9zDPndQS8whXGrKlo4oOkYOaJTdD3MZLbT8s" />
 
   <meta name="twitter:card" content="summary">

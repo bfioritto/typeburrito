@@ -1,71 +1,134 @@
 ---
 layout: post
-title:  How much do you actually know about typography?
+title:  Think You Know Typography? Get Ready to Mind Your p's and q's!
 date:   2016-11-28 11:25:01
 scripts:
-        - quizlib.min.js
+- quizlib.min.js
+styles:
+- quiz.css
 ---
 
 Here is an awesome quiz.
 
-Start here
-------------------------------
-
 <div id="quiz-container">
 
   <div class="question">
-    <div class="question-title">What are old style numerals?</div>
+    <h3>What are old style numerals?</h3>
     <div class="question-answers">
-      <p><input type="radio" name="q1" value="a"/> It's another word for Roman numerals. </p>
-      <p><input type="radio" name="q1" value="b"/> Numbers that are proportionally spaced. </p>
-      <p><input type="radio" name="q1" value="c"/> Numbers that vary in height like lowercase letters. </p>
-      <p><input type="radio" name="q1" value="d"/> Numbers designed for an old style typeface. </p>
+
+      <div class="option">
+        <input type="radio" name="q1" value="a"/>
+        <p>It's another word for Roman numerals. </p>
+      </div>
+
+      <div class="option">
+        <input type="radio" name="q1" value="b"/>
+        <p> Numbers that are proportionally spaced. </p>
+      </div>
+
+      <div class="option">
+        <input type="radio" name="q1" value="c"/>
+        <p> Numbers that vary in height like lowercase letters. </p>
+      </div>
+
+      <div class="option">
+        <input type="radio" name="q1" value="d"/>
+        <p> Numbers designed for an old style typeface. </p>
+      </div>
+
     </div>
   </div>
 
   <div class="question">
-    <div class="question-title">How many spaces should you put after a period at the end of a sentence?</div>
+    <h3>How many spaces should you put after a period at the end of a sentence?</h3>
     <div class="question-answers">
-      <p><input type="radio" name="q1" value="a"/>0</p>
-      <p><input type="radio" name="q1" value="b"/>1</p>
-      <p><input type="radio" name="q1" value="c"/>2</p>
-      <p><input type="radio" name="q1" value="d"/>Depends on the sentence</p>
+      <div class="option">
+        <input type="radio" name="q1" value="a"/>
+        <p>0</p>
+      </div>
+      <div class="option">
+        <input type="radio" name="q2" value="b"/>
+        <p>1</p>
+      </div>
+      <div class="option">
+        <input type="radio" name="q3" value="c"/>
+        <p>2</p>
+      </div>
+      <div class="option">
+        <input type="radio" name="q4" value="d"/>
+        <p>Depends on the sentence</p>
     </div>
   </div>
 
    <div class="question">
-    <div class="question-title">What is hanging punctuation?</div>
+    <h3>What is hanging punctuation?</h3>
     <div class="question-answers">
-      <p><input type="radio" name="q1" value="a"/>Any punctuation that hangs below the baseline.</p>
-      <p><input type="radio" name="q1" value="b"/>Setting type so that small punctuation marks hang into the margin.</p>
-      <p><input type="radio" name="q1" value="c"/>Punctuation used for decorative purposes.</p>
-      <p><input type="radio" name="q1" value="d"/>A method of indenting a paragraph.</p>
+      <div class="option">
+        <input type="radio" name="q1" value="a"/>
+        <p>Any punctuation that hangs below the baseline.</p>
+      </div>
+      <div class="option">
+        <input type="radio" name="q2" value="b"/>
+        <p>Setting type so that small punctuation marks hang into the margin.</p>
+      </div>
+      <div class="option">
+        <input type="radio" name="q3" value="c"/>
+        <p>Punctuation used for decorative purposes.</p>
+      </div>
+      <div class="option">
+        <input type="radio" name="q4" value="d"/>
+        <p>A method of indenting a paragraph.</p>
+      </div>
     </div>
   </div>
 
   <div class="question">
-    <div class="question-title">What are these marks called?</div>
+    <h3>What are these marks called?</h3>
     <figure class="question-image">
       <img src="/images/type_burrito_logo.png" />
     </figure>
     <div class="question-answers">
-      <p><input type="radio" name="q1" value="a"/>Prime marks.</p>
-      <p><input type="radio" name="q1" value="b"/>Inch marks.</p>
-      <p><input type="radio" name="q1" value="c"/>Quotation marks.</p>
-      <p><input type="radio" name="q1" value="d"/>Straight quotes.</p>
+      <div class="option">
+        <input type="radio" name="q1" value="a"/>
+        <p>Prime marks.</p>
+      </div>
+      <div class="option">
+        <input type="radio" name="q2" value="b"/>
+        <p>Inch marks.</p>
+      </div>
+      <div class="option">
+        <input type="radio" name="q3" value="c"/>
+        <p>Quotation marks.</p>
+      </div>
+      <div class="option">
+        <input type="radio" name="q4" value="d"/>
+        <p>Straight quotes.</p>
+      </div>
     </div>
   </div>
 
   <div class="question">
-    <div class="question-title"How would you fix this sentence?</div>
+    <h3>How would you fix this sentence?</h3>
     <figure class="question-image">
       <img src="/images/type_burrito_logo.png" />
     </figure>
     <div class="question-answers">
-      <p><input type="radio" name="q1" value="a"/>The quotation marks should be straight, not curly.</p>
-      <p><input type="radio" name="q1" value="b"/>The exclamation point belongs outside the quotation marks, and "exclaimed" needs to be capitalized.</p>
-      <p><input type="radio" name="q1" value="c"/>The apostrophe should not be straight; make it curly.</p>
-      <p><input type="radio" name="q1" value="d"/>The apostrophe should be curly, and the hyphen should be lengthened to an en dash.</p>
+      <div class="option">
+        <input type="radio" name="q1" value="a"/>
+        <p>The quotation marks should be straight, not curly.</p>
+      </div>
+      <div class="option">
+        <input type="radio" name="q2" value="b"/>
+        <p>The exclamation point belongs outside the quotation marks, and "exclaimed" needs to be capitalized.</p>
+      </div>
+      <div class="option">
+        <input type="radio" name="q3" value="c"/>
+        <p>The apostrophe should not be straight; make it curly.</p>
+      </div>
+      <div class="option">
+        <input type="radio" name="q4" value="d"/>
+        <p></p>
+      </div>
     </div>
   </div>
 

@@ -3,37 +3,6 @@
 ---
 @charset "utf-8";
 
-
-// Our variables
-$base-font-family: "acumin-pro", sans-serif;
-$header-font-family: "museo-slab", serif;
-$font-size-1: 1rem;
-$font-size-2: 1.2rem;
-$font-size-3: 1.44rem;
-$font-size-4: 1.73rem;
-$font-size-5: 2.07rem;
-$font-size-6: 2.49rem;
-$font-size-7: 2.79rem; /* modular scale here should be 2.99 */
-$font-size-8: 3.58rem;
-$font-size-9: 1rem;
-$base-line-height: 1.6;
-$article-width: 710px;
-
-
-$background-color: rgb(240, 240, 240);
-$grey: rgb(140, 140, 140);
-$black: rgb(75, 75, 75);
-$white: rgb(255, 255, 255);
-$red-orange: rgb(202, 38, 30);
-$red-orange-bright: rgb(220, 55, 35);
-$red-orange-dark: rgb(110, 20, 90);
-$red-orange-light: rgb(240, 160, 140);
-$teal: rgb(5, 110, 115);
-$link: rgb(200, 60, 115); /* 218, 94, 125 */
-$link-visited: rgb(140, 38, 78);
-
-$desktop:        1024px;
-
 * , *:before, *:after {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -41,22 +10,8 @@ $desktop:        1024px;
 }
 
 
-@mixin media-query($breakpoint) {
-    @media screen and (min-width: $breakpoint) {
-        @content;
-    }
-}
-
-@mixin clearfix {
-  &::after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-}
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
+@import "variables";
 @import "syntax-highlighting";
 
 /* top of the page: nav, banner, logo styling */
@@ -616,7 +571,7 @@ $slab-serif: $base-font-family;
     padding-top: 0rem;
     padding-bottom: 2.9rem;
     line-height: 9rem;
-    
+
   }
 
   .third-line {
@@ -637,7 +592,3 @@ $slab-serif: $base-font-family;
     letter-spacing: 1px;
   }
 }
-
-
-
-
