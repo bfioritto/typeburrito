@@ -4,17 +4,18 @@ title:  Think You Know Typography? Get Ready to Mind Your p's and q's!
 date:   2016-11-28 11:25:01
 scripts:
 - quizlib.min.js
+- quiz.js
 styles:
 - quiz.css
 ---
 
 Here is an awesome quiz.
 
-<div id="quiz-container">
+<div id="quiz-container" class="quiz-container">
 
-  <div class="question">
-    <h3>What are old style numerals?</h3>
-    <div class="question-answers">
+  <div class="quizlib-question question" data-answer="c">
+    <h3 class="quizlib-question-title">What are old style numerals?</h3>
+    <div class="quizlib-question-answers question-answers">
 
       <div class="option">
         <input type="radio" name="q1" value="a"/>
@@ -39,9 +40,9 @@ Here is an awesome quiz.
     </div>
   </div>
 
-  <div class="question">
-    <h3>How many spaces should you put after a period at the end of a sentence?</h3>
-    <div class="question-answers">
+  <div class="quizlib-question question" data-answer="b">
+    <h3 class="quizlib-question-title">How many spaces should you put after a period at the end of a sentence?</h3>
+    <div class="quizlib-question-answers question-answers">
       <div class="option">
         <input type="radio" name="q1" value="a"/>
         <p>0</p>
@@ -57,12 +58,13 @@ Here is an awesome quiz.
       <div class="option">
         <input type="radio" name="q4" value="d"/>
         <p>Depends on the sentence</p>
+      </div>
     </div>
   </div>
 
-   <div class="question">
-    <h3>What is hanging punctuation?</h3>
-    <div class="question-answers">
+   <div class="quizlib-question question" data-answer="b">
+    <h3 class="quizlib-question-title">What is hanging punctuation?</h3>
+    <div class="quizlib-question-answers question-answers">
       <div class="option">
         <input type="radio" name="q1" value="a"/>
         <p>Any punctuation that hangs below the baseline.</p>
@@ -82,12 +84,12 @@ Here is an awesome quiz.
     </div>
   </div>
 
-  <div class="question">
-    <h3>What are these marks called?</h3>
+  <div class="quizlib-question question" data-answer="d">
+    <h3 class="quizlib-question-title">What are these marks called?</h3>
     <figure class="question-image">
       <img src="/images/type_burrito_logo.png" />
     </figure>
-    <div class="question-answers">
+    <div class="quizlib-question-answers question-answers">
       <div class="option">
         <input type="radio" name="q1" value="a"/>
         <p>Prime marks.</p>
@@ -107,12 +109,12 @@ Here is an awesome quiz.
     </div>
   </div>
 
-  <div class="question">
-    <h3>How would you fix this sentence?</h3>
+  <div class="quizlib-question question" data-answer="c">
+    <h3 class="quizlib-question-title">How would you fix this sentence?</h3>
     <figure class="question-image">
       <img src="/images/type_burrito_logo.png" />
     </figure>
-    <div class="question-answers">
+    <div class="quizlib-question-answers question-answers">
       <div class="option">
         <input type="radio" name="q1" value="a"/>
         <p>The quotation marks should be straight, not curly.</p>
@@ -130,6 +132,8 @@ Here is an awesome quiz.
         <p></p>
       </div>
     </div>
+
+    <button type="button">Check Answers</button>
   </div>
 
 
