@@ -1,4 +1,4 @@
-(function(){
+document.addEventListener('DOMContentLoaded', function(){
 
 "use strict";
 
@@ -7,9 +7,8 @@
     answers.push(input.dataset["answer"]);
   });
 
-  var quiz = new Quiz('quiz-container', answers);
-
-  var button = document.querySelector(".quiz-container button");
+  var quiz = new Quiz('quiz-container', answers),
+      button = document.querySelector(".quiz-container button");
 
   function checkAnswers(){
     if (quiz.checkAnswers(false)) {
@@ -18,5 +17,7 @@
       console.log(quiz.result.score)
     }
   }
+  console.log(button)
+  button.addEventListener('click', checkAnswers);
 
-}());
+});
