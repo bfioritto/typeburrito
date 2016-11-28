@@ -7,7 +7,16 @@
     answers.push(input.dataset["answer"]);
   });
 
-  console.log(answers)
   var quiz = new Quiz('quiz-container', answers);
+
+  var button = document.querySelector(".quiz-container button");
+
+  function checkAnswers(){
+    if (quiz.checkAnswers(false)) {
+      console.log(quiz.result.score)
+    } else {
+      console.log(quiz.result.score)
+    }
+  }
 
 }());

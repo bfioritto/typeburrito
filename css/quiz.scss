@@ -8,15 +8,11 @@
 #quiz-container {
 
   .question-answers input{
-    padding-right: 1rem;
+    display: inline-block;
+    width: 1.5rem;
   }
 
   .option {
-
-  }
-
-  .option input, .option p {
-    display: inline-block;
-    line-height: $base-line-height;
+    min-height: 2rem;
   }
 }
