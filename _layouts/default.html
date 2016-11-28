@@ -2,26 +2,32 @@
 <html lang="en">
   {% include head.html %}
   <body>
-    
-	  <div class="banner">
+
+    <div class="banner">
       {% include nav.html %}
-  	</div>
-  	
+    </div>
+
     <div class="content">
-      
+
       <div class="logo-small">
         <a href="/"><img src="/images/type_burrito_logo.png" alt="type burrito logo" style="width:200px;"></a>
       </div>
-      
+
       <div class="logo-large">
         <a href="/"><img src="/images/type_burrito_logo.png" alt="type burrito logo" style="width:400px;"></a>
       </div>
-      
+
       <div class="horizontal-line">
       </div>
-      
+
       {{ content }}
-      
+
     </div>
+    {% if page.scripts %}
+    {% for script in page.scripts %}
+    <script src="/javascript/{{ script }}"></script>
+    {% endfor %}
+    {% endif %}
+
   </body>
 </html>
