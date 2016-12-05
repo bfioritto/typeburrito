@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Think You Know Typography? Get Ready to Mind Your p's and q's!
+title:  Typography Pop Quiz!
 date:   2016-11-28 11:25:01
 scripts:
 - quizlib.min.js
@@ -9,30 +9,25 @@ styles:
 - quiz.css
 ---
 
-Take the quiz!
+Ready, Set, Go!
 
 <div id="quiz-container" class="quiz-container">
 
   <div class="quizlib-question question" data-answer="c">
     <h3 class="quizlib-question-title">What are old style numerals?</h3>
     <div class="quizlib-question-answers question-answers">
-
       <div class="option">
         <p><input type="radio" name="q1" value="a"/>It's another word for Roman numerals. </p>
       </div>
-
       <div class="option">
         <p><input type="radio" name="q1" value="b"/>Numbers that are proportionally spaced. </p>
       </div>
-
       <div class="option">
         <p><input type="radio" name="q1" value="c"/>Numbers that vary in height like lowercase letters. </p>
       </div>
-
       <div class="option">
         <p><input type="radio" name="q1" value="d"/>Numbers designed for an old style typeface. </p>
       </div>
-
     </div>
   </div>
 
@@ -356,20 +351,39 @@ Take the quiz!
     </div>
 
 <div class="quizlib-question question" data-answer="c">
-    <h3 class="quizlib-question-title">Which of the following is a scenario where you'd definitely need tabular lining figures?</h3>
+    <h3 class="quizlib-question-title">In which of the following scenarios would you most likely need to use tabular lining figures?</h3>
     <div class="quizlib-question-answers question-answers">
       <div class="option">
-        <p><input type="radio" name="q18" value="d"/>Creating letterhead or other materials with phone numbers and addresses.</p>
+        <p><input type="radio" name="q19" value="d"/>Creating letterhead or other materials with phone numbers and addresses.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q18" value="a"/>Designing a menu.</p>
+        <p><input type="radio" name="q19" value="a"/>Designing a menu.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q18" value="b"/>Designing a book.</p>
+        <p><input type="radio" name="q19" value="b"/>Designing a book.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q18" value="c"/>Laying out a report that includes an annual budget.</p>
+        <p><input type="radio" name="q19" value="c"/>Laying out a report that includes an annual budget.</p>
       </div>
     </div>
+
+<div class="quizlib-question question" data-answer="c">
+    <h3 class="quizlib-question-title">Should you letterspace words in all-caps?</h3>
+    <div class="quizlib-question-answers question-answers">
+      <div class="option">
+        <p><input type="radio" name="q20" value="a"/>Yes. It gives the words more visual weight.</p>
+      </div>
+      <div class="option">
+        <p><input type="radio" name="q20" value="b"/>No. There's some saying about stealing sheep that has something to do with spacing.</p>
+      </div>
+      <div class="option">
+        <p><input type="radio" name="q20" value="c"/>Yes. Capital letters are designed to fit well next to lowercase, but need more room next to other capitals.</p>
+      </div>
+      <div class="option">
+        <p><input type="radio" name="q20" value="d"/>Open them wide! That way you can hear the Hans Zimmer music in the space between the letters.</p>
+      </div>
+    </div>
+  </div>
+
 
 </div>
