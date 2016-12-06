@@ -107,8 +107,6 @@ Ready, Set, Go!
         <p><input type="radio" name="q5" value="d"/>The apostrophe should be curly, and the hyphen should be lengthened to an en dash.</p>
       </div>
     </div>
-
-    <button type="button">Check Answers</button>
   </div>
 
   <div class="quizlib-question question" data-answer="c">
@@ -380,9 +378,10 @@ Ready, Set, Go!
         <p><input type="radio" name="q20" value="c"/>Yes. Capital letters are designed to fit well next to lowercase, but need more room next to other capitals.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q20" value="d"/>Open them wide! That way you can hear the Hans Zimmer music in the space between the letters.</p>
+        <p><input type="radio" name="q20" value="d"/>Open those words up til you can drive a truck through the middle!</p>
       </div>
     </div>
+    <button type="button">Check Answers</button>
   </div>
 
 
