@@ -15,7 +15,7 @@ Ready, Set, Go!
 
 
 <div class="quizlib-question question" data-answer="b">
-    <h3 class="quizlib-question-title">Name the part of the letterform.</h3>
+  <h3 class="quizlib-question-title">Name the part of the letterform.</h3>
     <figure class="question-image">
       <img src="/images/type_quiz/crossbar_id.png" />
     </figure>
@@ -171,7 +171,7 @@ Ready, Set, Go!
     </div>
   </div>
 
-   <div class="quizlib-question question" data-answer="b">
+<div class="quizlib-question question" data-answer="b">
     <h3 class="quizlib-question-title">What is hanging punctuation?</h3>
     <div class="quizlib-question-answers question-answers">
       <div class="option">
@@ -242,6 +242,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q12" value="d"/>Sans Serif</p>
       </div>
     </div>
+</div>
 
 <div class="quizlib-question question" data-answer="a">
     <h3 class="quizlib-question-title">Name the part of the letterform.</h3>
@@ -404,9 +405,6 @@ Ready, Set, Go!
 
 </div>
 
-
-  
-</div>
 
 <div class="modal quiz-results">
   <div class="inner-modal">
