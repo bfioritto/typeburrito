@@ -18,4 +18,29 @@
     text-indent: -1.9rem;
     padding-bottom: .4rem;
   }
+
+  .check-answer-button {
+    background: $teal;
+    border-radius: 0px;
+      border: 0px;
+      border-color: none;
+      border-style: solid;
+      font-family: $base-font-family;
+      font-weight: 300;
+      height: 53px;
+      padding: 1rem;
+      margin-top: 1rem;
+      text-align: center;
+      text-decoration: none;
+      font-size: $font-size-1;
+      letter-spacing: 1px;
+      color: $white;
+      line-height: 1rem;
+      width: 15rem;
+      max-width: 100%;
+      @include media-query($desktop) {
+        font-size: $font-size-2;
+        }
+  }
+
 }

@@ -478,19 +478,13 @@ body {
 
     #newsletter-subscribe {
 
-      /* Button Gradient */
-      background: $red-orange; /* Old browsers */
-      background: -moz-linear-gradient(top, $red-orange-bright 0%, $red-orange-dark 100%); /* FF3.6-15 */
-      background: -webkit-linear-gradient(top, $red-orange-bright 0%, $red-orange-dark 100%); /* Chrome10-25,Safari5.1-6 */
-      background: linear-gradient(to bottom, $red-orange-bright 0%, $red-orange-dark 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$red-orange-bright', endColorstr='$red-orange-dark',GradientType=0 ); /* IE6-9 */
-
+      background: $red-orange;
       border-radius: 0px;
-      border: 1px;
+      border: 0px;
       border-color: $grey;
       border-style: solid;
       font-family: $base-font-family;
-      font-weight: 700;
+      font-weight: 500;
       height: 55px;
       padding: 1rem;
       margin-top: 1rem;
@@ -604,7 +598,10 @@ $slab-serif: $base-font-family;
   .inner-modal {
     background: #f0f0f0;
     width: 40rem;
-    padding: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    padding-top: 0rem;
     height: 30rem;
     margin: 5rem auto 0 auto;
   }
