@@ -35,4 +35,13 @@ document.addEventListener('DOMContentLoaded', function(){
 
   button.addEventListener('click', checkAnswers);
 
+  document.addEventListener('click', function(e){
+    var modal = document.querySelector(".quiz-results");
+    if (e.target === modal) {
+      if (modal.classList.contains('active')) {
+        modal.classList.remove('active');
+      }
+    }
+  });
+
 });
