@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Typography Pop Quiz!
+title:  Typography Pop Quiz
 date:   2016-11-28 11:25:01
 scripts:
 - quizlib.min.js
@@ -109,7 +109,7 @@ Ready, Set, Go!
     </div>
   </div>
 
-  <div class="quizlib-question question" data-answer="c">
+  <div class="quizlib-question question" data-answer="d">
     <h3 class="quizlib-question-title">What is a ligature?</h3>
     <div class="quizlib-question-answers question-answers">
       <div class="option">
@@ -146,7 +146,7 @@ Ready, Set, Go!
       </div>
     </div>
 
-<div class="quizlib-question question" data-answer="c">
+<div class="quizlib-question question" data-answer="b">
     <h3 class="quizlib-question-title">Name the part of the letterform.</h3>
     <figure class="question-image">
       <img src="/images/type_quiz/stem_id.png" />
@@ -166,7 +166,7 @@ Ready, Set, Go!
       </div>
     </div>
 
-<div class="quizlib-question question" data-answer="c">
+<div class="quizlib-question question" data-answer="a">
     <h3 class="quizlib-question-title">Name the part of the letterform.</h3>
     <figure class="question-image">
       <img src="/images/type_quiz/bowl_id.png" />
@@ -186,7 +186,7 @@ Ready, Set, Go!
       </div>
     </div>
 
-<div class="quizlib-question question" data-answer="c">
+<div class="quizlib-question question" data-answer="d">
     <h3 class="quizlib-question-title">Name the part of the letterform.</h3>
     <figure class="question-image">
       <img src="/images/type_quiz/apex_id.png" />
@@ -206,7 +206,7 @@ Ready, Set, Go!
       </div>
     </div>
 
-<div class="quizlib-question question" data-answer="c">
+<div class="quizlib-question question" data-answer="b">
     <h3 class="quizlib-question-title">Name the part of the letterform.</h3>
     <figure class="question-image">
       <img src="/images/type_quiz/crossbar_id.png" />
@@ -246,11 +246,11 @@ Ready, Set, Go!
       </div>
     </div>
 
-<div class="quizlib-question question" data-answer="c">
+<div class="quizlib-question question" data-answer="a">
     <h3 class="quizlib-question-title">What is a chromatic typeface?</h3>
     <div class="quizlib-question-answers question-answers">
       <div class="option">
-        <p><input type="radio" name="q13" value="a"/>A typeface with multiple versions that can be stacked on top of each other to create effects such as fill patterns or shadows.</p>
+        <p><input type="radio" name="q13" value="a"/>A typeface with multiple versions designed to be stacked on top of each other to create effects such as fill patterns or shadows.</p>
       </div>
       <div class="option">
         <p><input type="radio" name="q13" value="b"/>A typeface with a special Chrome plugin that allows the words to be read aloud.</p>
@@ -263,24 +263,24 @@ Ready, Set, Go!
       </div>
     </div>
 
-<div class="quizlib-question question" data-answer="c">
+<div class="quizlib-question question" data-answer="a">
     <h3 class="quizlib-question-title">You need to pick a type size for your body text. Which of these options sounds most reasonable?</h3>
     <div class="quizlib-question-answers question-answers">
       <div class="option">
-        <p><input type="radio" name="q14" value="a"/>Using a modular scale, take the size of your h1 tag and go three steps down the scale.</p>
+        <p><input type="radio" name="q14" value="a"/>Depends on the reading device. Choose type sizes that are easy to read at a comfortable reading distance on the relevant devices.</p>
       </div>
       <div class="option">
         <p><input type="radio" name="q14" value="b"/>Always use 16 px. That's the standard.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q14" value="c"/>Test out your body typeface on various screens and choose sizes that are easy to read at a comfortable reading distance.</p>
+        <p><input type="radio" name="q14" value="c"/>Using a modular scale, take the size of your h1 tag and go three steps down the scale.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q14" value="d"/>It depends: whatever size will allow you to get 80 characters per line across all screen sizes.</p>
+        <p><input type="radio" name="q14" value="d"/>Use the type size that will allow you to get 80 characters per line across all screen sizes.</p>
       </div>
     </div>
 
-<div class="quizlib-question question" data-answer="c">
+<div class="quizlib-question question" data-answer="d">
     <h3 class="quizlib-question-title">What does it mean for a font to be OpenType?</h3>
     <div class="quizlib-question-answers question-answers">
       <div class="option">
@@ -297,7 +297,7 @@ Ready, Set, Go!
       </div>
     </div>
 
-<div class="quizlib-question question" data-answer="c">
+<div class="quizlib-question question" data-answer="b">
     <h3 class="quizlib-question-title">What mark belongs in the box?</h3>
     <figure class="question-image">
       <img src="/images/type_quiz/what_mark_belongs.png" />
@@ -317,7 +317,7 @@ Ready, Set, Go!
       </div>
     </div>
 
-<div class="quizlib-question question" data-answer="c">
+<div class="quizlib-question question" data-answer="a">
     <h3 class="quizlib-question-title">Which example illustrates real small caps?</h3>
     <figure class="question-image">
       <img src="/images/type_quiz/small_caps.png" />
@@ -331,37 +331,37 @@ Ready, Set, Go!
       </div>
     </div>
 
-<div class="quizlib-question question" data-answer="c">
+<div class="quizlib-question question" data-answer="a">
     <h3 class="quizlib-question-title">What is a type family?</h3>
     <div class="quizlib-question-answers question-answers">
       <div class="option">
-        <p><input type="radio" name="q18" value="d"/>Typefaces that are variations of each other and designed to work together.</p>
+        <p><input type="radio" name="q18" value="a"/>Typefaces that are variations of each other and designed to work together.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q18" value="a"/>Any group of typefaces that work well together.</p>
+        <p><input type="radio" name="q18" value="b"/>Any group of typefaces that work well together.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q18" value="b"/>A designer's collection of favorite typefaces.</p>
+        <p><input type="radio" name="q18" value="c"/>A designer's collection of favorite typefaces.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q18" value="c"/>Typefaces in the same type category, such as slab serif.</p>
+        <p><input type="radio" name="q18" value="d"/>Typefaces in the same type category, such as slab serif.</p>
       </div>
     </div>
 
-<div class="quizlib-question question" data-answer="c">
+<div class="quizlib-question question" data-answer="d">
     <h3 class="quizlib-question-title">In which of the following scenarios would you most likely need to use tabular lining figures?</h3>
     <div class="quizlib-question-answers question-answers">
       <div class="option">
-        <p><input type="radio" name="q19" value="d"/>Creating letterhead or other materials with phone numbers and addresses.</p>
+        <p><input type="radio" name="q19" value="a"/>Creating letterhead or other materials with phone numbers and addresses.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q19" value="a"/>Designing a menu.</p>
+        <p><input type="radio" name="q19" value="b"/>Designing a menu.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q19" value="b"/>Designing a book.</p>
+        <p><input type="radio" name="q19" value="c"/>Designing a book.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q19" value="c"/>Laying out a report that includes an annual budget.</p>
+        <p><input type="radio" name="q19" value="d"/>Laying out a report that includes an annual budget.</p>
       </div>
     </div>
 
@@ -372,7 +372,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q20" value="a"/>Yes. It gives the words more visual weight.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q20" value="b"/>No. There's some saying about stealing sheep that has something to do with spacing.</p>
+        <p><input type="radio" name="q20" value="b"/>No. Letterspacing is like stealing sheep. Or something.</p>
       </div>
       <div class="option">
         <p><input type="radio" name="q20" value="c"/>Yes. Capital letters are designed to fit well next to lowercase, but need more room next to other capitals.</p>
