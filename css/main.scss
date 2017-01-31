@@ -319,7 +319,7 @@ body {
 .special-title {
     font-family: $header-font-family;
     font-weight: 300;
-    color: $red-orange;
+    color: $black;
     font-size: $font-size-5;
     text-align: center;
     line-height: 1.2;
@@ -329,7 +329,8 @@ body {
     margin-right: auto;
     @include media-query($desktop) {
       font-size: $font-size-6;
-      padding-top: 1rem;
+      padding-top: 3rem;
+      padding-bottom: 0rem;
       margin: 2rem;
     }
 }
@@ -337,7 +338,7 @@ body {
 .sub-title {
     font-family: $base-font-family;
     font-weight: 500;
-    color: $red-orange;
+    color: $black;
     font-size: $font-size-2;
     text-transform: uppercase;
     text-align: center;
