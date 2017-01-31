@@ -592,3 +592,20 @@ $slab-serif: $base-font-family;
     letter-spacing: 1px;
   }
 }
+
+.modal.active {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  background: rgba(0, 0, 0, .5);
+
+  .inner-modal {
+    background: #f0f0f0;
+    width: 40rem;
+    padding: 2rem;
+    height: 30rem;
+    margin: 5rem auto 0 auto;
+  }
+}

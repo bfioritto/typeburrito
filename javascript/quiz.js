@@ -11,13 +11,28 @@ document.addEventListener('DOMContentLoaded', function(){
       button = document.querySelector(".quiz-container button");
 
   function checkAnswers(){
-    if (quiz.checkAnswers(false)) {
-      console.log(quiz.result.score)
-    } else {
-      console.log(quiz.result.score)
-    }
+    quiz.checkAnswers(false);
+    var modal = document.querySelector(".quiz-results"),
+        score = quiz.result.score;
+
+    var html = "<h3>You got " + score + " out of " + answers.length + " correct!</h3>" +
+        '<p>If you liked this, don’t miss my cheat sheet for pairing Google Fonts! ' +
+        'Type your email below to get the cheat sheet and more goodies just like it delivered straight to your inbox.</p>' +
+        '<form action="//typeburrito.us12.list-manage.com/subscribe/post?u=fd0a52a22d00801e99e8e1e03&amp;id=c146058452"' +
+        'method="post"' +
+        'id="newsletter-form"' +
+        'name="mc-embedded-subscribe-form"' +
+        'target="_blank"' +
+        'novalidate>' +
+        '<input type="email" value="" name="EMAIL" class="email" id="newsletter-email" placeholder="email address">' +
+        '<input type="submit" value="Get the Cheat Sheet!" name="subscribe" id="newsletter-subscribe" class="button">' +
+        '</form>';
+
+    modal.querySelector(".inner-modal").innerHTML = html;
+    modal.classList.add("cta");
+    modal.classList.add("active");
   }
-  console.log(button)
+
   button.addEventListener('click', checkAnswers);
 
 });
