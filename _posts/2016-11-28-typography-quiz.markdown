@@ -3,7 +3,7 @@ layout: post
 title:  Typography Pop Quiz
 date:   2016-11-28 11:25:01
 scripts:
-- quizlib.min.js
+- quizlib.js
 - quiz.js
 styles:
 - quiz.css
@@ -125,6 +125,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q6" value="d"/>A glyph that replaces multiple characters that would collide or look awkward next to each other.</p>
       </div>
     </div>
+  </div>
 
 <div class="quizlib-question question" data-answer="c">
     <h3 class="quizlib-question-title">Which of the following would be the best way to improve the readability of this paragraph?</h3>
@@ -145,6 +146,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q7" value="d"/>Make the typeface bolder.</p>
       </div>
     </div>
+</div>
 
 <div class="quizlib-question question" data-answer="b">
     <h3 class="quizlib-question-title">Name the part of the letterform.</h3>
@@ -165,6 +167,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q8" value="d"/>Ascender</p>
       </div>
     </div>
+</div>
 
 <div class="quizlib-question question" data-answer="a">
     <h3 class="quizlib-question-title">Name the part of the letterform.</h3>
@@ -185,6 +188,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q9" value="d"/>Counter</p>
       </div>
     </div>
+</div>
 
 <div class="quizlib-question question" data-answer="d">
     <h3 class="quizlib-question-title">Name the part of the letterform.</h3>
@@ -205,6 +209,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q10" value="d"/>Apex</p>
       </div>
     </div>
+</div>
 
 <div class="quizlib-question question" data-answer="b">
     <h3 class="quizlib-question-title">Name the part of the letterform.</h3>
@@ -225,6 +230,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q11" value="d"/>Baseline</p>
       </div>
     </div>
+</div>
 
 <div class="quizlib-question question" data-answer="c">
     <h3 class="quizlib-question-title">Name the part of the letterform.</h3>
@@ -245,6 +251,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q12" value="d"/>Hook</p>
       </div>
     </div>
+</div>
 
 <div class="quizlib-question question" data-answer="a">
     <h3 class="quizlib-question-title">What is a chromatic typeface?</h3>
@@ -262,6 +269,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q13" value="d"/>A typeface designed to be cut out of a material such as metal.</p>
       </div>
     </div>
+</div>
 
 <div class="quizlib-question question" data-answer="a">
     <h3 class="quizlib-question-title">You need to pick a type size for your body text. Which of these options sounds most reasonable?</h3>
@@ -279,6 +287,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q14" value="d"/>Use the type size that will allow you to get 80 characters per line across all screen sizes.</p>
       </div>
     </div>
+</div>
 
 <div class="quizlib-question question" data-answer="d">
     <h3 class="quizlib-question-title">What does it mean for a font to be OpenType?</h3>
@@ -296,6 +305,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q15" value="d"/>It allows for advanced typographic features such as the replacement of alternate characters and discretionary ligatures.</p>
       </div>
     </div>
+</div>
 
 <div class="quizlib-question question" data-answer="b">
     <h3 class="quizlib-question-title">What mark belongs in the box?</h3>
@@ -316,6 +326,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q16" value="d"/>A double hyphen.</p>
       </div>
     </div>
+</div>
 
 <div class="quizlib-question question" data-answer="a">
     <h3 class="quizlib-question-title">Which example illustrates real small caps?</h3>
@@ -330,6 +341,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q17" value="b"/>2</p>
       </div>
     </div>
+</div>
 
 <div class="quizlib-question question" data-answer="a">
     <h3 class="quizlib-question-title">What is a type family?</h3>
@@ -347,6 +359,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q18" value="d"/>Typefaces in the same type category, such as slab serif.</p>
       </div>
     </div>
+</div>
 
 <div class="quizlib-question question" data-answer="d">
     <h3 class="quizlib-question-title">In which of the following scenarios would you most likely need to use tabular lining figures?</h3>
@@ -364,6 +377,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q19" value="d"/>Laying out a report that includes an annual budget.</p>
       </div>
     </div>
+</div>
 
 <div class="quizlib-question question" data-answer="c">
     <h3 class="quizlib-question-title">Should you letterspace words in all-caps?</h3>
@@ -383,6 +397,9 @@ Ready, Set, Go!
     </div>
     <button type="button">Check Answers</button>
   </div>
+</div>
 
-
+<div class="modal quiz-results">
+  <div class="inner-modal">
+  </div>
 </div>
