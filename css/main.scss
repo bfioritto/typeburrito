@@ -523,12 +523,12 @@ body {
 /* coming soon */
 
 .hook {
-  
+
   text-align: center;
   color: $black;
   margin-top: 3rem;
   margin-bottom: 2rem;
-  
+
   h1 {
     font-family: $header-font-family;
     font-size: $font-size-5;
@@ -563,7 +563,7 @@ body {
     margin-right: 17rem;
   }
 
-  
+
   h3 {
     font-family: "acumin-pro-extra-condensed";
     font-weight: 200;
@@ -603,8 +603,12 @@ body {
 
 
 
+.modal {
+  display: none;
+}
 
 .modal.active {
+  display: block;
   position: fixed;
   top: 0;
   left: 0;
