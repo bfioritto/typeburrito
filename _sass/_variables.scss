@@ -1,21 +1,22 @@
 // Our variables
-$base-font-family: "acumin-pro", sans-serif;
-$header-font-family: "museo-slab", serif;
+$base-font-family: "acumin-pro", arial, sans-serif;
+$header-font-family: "museo-slab", serif; 
+/* font size uses a 1.2 modular scale */
 $font-size-1: 1rem;
 $font-size-2: 1.2rem;
 $font-size-3: 1.44rem;
 $font-size-4: 1.73rem;
 $font-size-5: 2.07rem;
 $font-size-6: 2.49rem;
-$font-size-7: 2.79rem; /* modular scale here should be 2.99 */
-$font-size-8: 3.58rem;
-$font-size-9: 1rem;
+$font-size-7: 3.58rem; /* skipping 2.99 */
+$font-size-8: 4.3rem; 
+$font-size-9: 6.19rem; /* skipping 5.16 */
 $base-line-height: 1.6;
 $article-width: 710px;
 
 
 $background-color: rgb(240, 240, 240);
-$grey: rgb(140, 140, 140);
+$grey: rgb(183, 183, 183);
 $black: rgb(75, 75, 75);
 $white: rgb(255, 255, 255);
 $red-orange: rgb(202, 38, 30);

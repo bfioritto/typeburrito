@@ -52,11 +52,11 @@ nav {
   font-color: $black;
   text-align: left;
   letter-spacing: 1px;
-  font-size: $font-size-9;
+  font-size: $font-size-1;
   @include media-query($desktop) {
     display: block;
     text-align: left;
-    font-size: $font-size-9;
+    font-size: $font-size-1;
     padding-top: 0.75rem;
     padding-bottom: 0rem;
   }
@@ -194,6 +194,7 @@ blockquote {
 
 /* h tags, post header (title), post date */
 
+
 .post-header {
   h1 {
     font-family: $header-font-family;
@@ -259,7 +260,7 @@ h5 {
   line-height: $base-line-height;
   margin-top: -6.75rem;
   padding-bottom: 5.25rem;
-  font-size: $font-size-9;
+  font-size: $font-size-1;
   font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 4px;
@@ -521,72 +522,87 @@ body {
 
 /* coming soon */
 
-$coming-soon-grey: rgb(77, 77, 77);
-$skinny-font: $header-font-family;
-$main-font: $base-font-family;
-$slab-serif: $base-font-family;
-.coming-soon {
-  background: $coming-soon-grey;
-  padding-bottom: 2.8rem;
-  padding-top: 2.8rem;
-  margin-top: 5rem;
+.hook {
+  
+  text-align: center;
+  color: $black;
+  margin-top: 3rem;
   margin-bottom: 2rem;
-
-  > * {
-    text-align: center;
-  }
-
-
-  > p {
-    max-width: 80%;
+  
+  h1 {
+    font-family: $header-font-family;
+    font-size: $font-size-5;
     margin-left: auto;
     margin-right: auto;
-    color: $red-orange;
-    padding: 0;
-  }
-
-  .first-line {
-    text-transform: uppercase;
-    font-family: "hoosier-daddy";
-    font-weight: 800;
-    font-size: 5.4rem;
-    letter-spacing: 5px;
-    border-top: 8px solid $red-orange;
-    padding-top: 0.2rem;
-    padding-bottom: 0.6rem;
-    line-height: 6.4rem;
-    color: $red-orange;
-  }
-
-  .second-line {
-    font-family: "acumin-pro-extra-condensed";
-    font-weight: 200;
-    font-size: 10.5rem;
-    border-top: 8px solid $red-orange;
-    padding-top: 0rem;
-    padding-bottom: 2.9rem;
-    line-height: 9rem;
-
-  }
-
-  .third-line {
-    background: $red-orange;
-    color: $coming-soon-grey;
-    text-transform: uppercase;
-    font-family: "proxima-nova-alt";
-    font-weight: 300;
-    font-size: 1.5rem;
-    letter-spacing: 4px;
-  }
-
-  .fourth-line {
-    border-bottom: 8px solid $red-orange;
-    font-family: $header-font-family;
-    font-size: 3.8rem;
-    font-weight: 800;
-    letter-spacing: 1px;
+    @include media-query($desktop) {
+      font-size: $font-size-6;
+      padding: 1rem;
+      margin: 0;
+    }
   }
 }
+
+.coming-soon {
+
+  text-align: left;
+  margin-top: 0rem;
+  background-color: $grey;
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+
+  h2 {
+    font-family: $header-font-family;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: $white;
+    background-color: $teal;
+    padding-top: 1.3rem;
+    padding-bottom: 1.3rem;
+    padding-left: 6rem;
+    margin-right: 17rem;
+  }
+
+  
+  h3 {
+    font-family: "acumin-pro-extra-condensed";
+    font-weight: 200;
+    font-size: 7rem;
+    color: $background-color;
+    line-height: 1.1;
+    padding-left: 6rem;
+    padding-top: 4.7rem;
+    @include media-query($desktop) {
+      font-size: 6.7rem;
+    }
+    em {
+    font-family: "acumin-pro-extra-condensed";
+    font-weight: 700;
+    color: $white;
+    }
+  }
+
+}
+
+.coming-soon-cta {
+  font-family: $base-font-family;
+  font-weight: 300;
+  font-size: $font-size-4;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  em {
+  font-family: $header-font-family;
+  }
+}
+
+
+
+
+
+
+
+
+
 
 .modal.active {
   position: fixed;
