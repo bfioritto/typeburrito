@@ -563,16 +563,21 @@ body {
     font-family: $header-font-family;
     font-size: 1rem;
     text-transform: uppercase;
-    letter-spacing: 5px;
+    letter-spacing: 4px;
+    text-align: center;
     color: $white;
     background-color: $teal;
     padding-top: 1rem;
     padding-bottom: 1rem;
-    padding-left: 2rem;
-    margin-right: 0rem;
+    margin-right: auto;
+    margin-left: auto;
     @include media-query($desktop) {
       font-size: 1.8rem;
+      letter-spacing: 5px;
       padding-left: 6rem;
+      text-align: left;
+      margin-right: 0rem;
+      margin-left: 0rem;
     }
   }
 
