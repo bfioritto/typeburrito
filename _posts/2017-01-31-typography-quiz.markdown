@@ -123,7 +123,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q6" value="b"/>Stem</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q6" value="c"/>Spine</p>
+        <p><input type="radio" name="q6" value="c"/>Serif</p>
       </div>
       <div class="option">
         <p><input type="radio" name="q6" value="d"/>Ascender</p>
@@ -160,13 +160,13 @@ Ready, Set, Go!
         <p><input type="radio" name="q8" value="a"/>The quotation marks should be straight, not curly.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q8" value="b"/>The exclamation point belongs outside the quotation marks, and &ldquo;exclaimed&rdquo; needs to be capitalized.</p>
+        <p><input type="radio" name="q8" value="b"/>The exclamation point belongs outside the quotation marks.</p>
       </div>
       <div class="option">
         <p><input type="radio" name="q8" value="c"/>The apostrophe should not be straight; make it curly.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q8" value="d"/>The apostrophe should be curly, and the hyphen should be lengthened to an en dash.</p>
+        <p><input type="radio" name="q8" value="d"/>The hyphen should be an en dash.</p>
       </div>
     </div>
   </div>
@@ -332,7 +332,7 @@ Ready, Set, Go!
         <p><input type="radio" name="q17" value="a"/>Depends on the reading device. Choose type sizes that are easy to read at a comfortable reading distance on the relevant devices.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q17" value="b"/>Always use 16 px. That&rsquo;s the standard.</p>
+        <p><input type="radio" name="q17" value="b"/>Always use 16 px.</p>
       </div>
       <div class="option">
         <p><input type="radio" name="q17" value="c"/>Using a modular scale, take the size of your h1 tag and go three steps down the scale.</p>
@@ -380,7 +380,7 @@ Ready, Set, Go!
 </div>
 
 
-<div class="quizlib-question question" data-answer="d">
+<div class="quizlib-question question" data-answer="b">
     <h3 class="quizlib-question-title">What are these marks called?</h3>
     <figure class="question-image">
       <img src="/images/type_quiz/quotes_primes_inch_marks.png" />
@@ -390,13 +390,13 @@ Ready, Set, Go!
         <p><input type="radio" name="q20" value="a"/>Prime marks.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q20" value="b"/>Inch marks.</p>
+        <p><input type="radio" name="q20" value="b"/>Straight quotes.</p>
       </div>
       <div class="option">
         <p><input type="radio" name="q20" value="c"/>Quotation marks.</p>
       </div>
       <div class="option">
-        <p><input type="radio" name="q20" value="d"/>Straight quotes.</p>
+        <p><input type="radio" name="q20" value="d"/>Apostrophes.</p>
       </div>
     </div>
 </div>
