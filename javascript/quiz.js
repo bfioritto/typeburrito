@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function(){
         score = quiz.result.score;
 
     var html = "<h3>You got " + score + " out of " + answers.length + " correct!</h3>" +
-        '<p>If you liked this, don’t miss my cheat sheet for pairing Google Fonts! ' +
+        '<p>If you liked this, you might be interested in my cheat sheet for pairing fonts! ' +
         'Type your email below to get the cheat sheet and more goodies just like it delivered straight to your inbox.</p>' +
         '<form action="//typeburrito.us12.list-manage.com/subscribe/post?u=fd0a52a22d00801e99e8e1e03&amp;id=c146058452"' +
         'method="post"' +
