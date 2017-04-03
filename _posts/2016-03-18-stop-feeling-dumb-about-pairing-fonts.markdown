@@ -18,7 +18,7 @@ It’s hands-down the most important thing you need to know to pick type (or any
 
 We’ve got our objectives hammered out: Now for some Type 101! 
 
-(Just a heads-up: this post is pretty long—and informative, so definitely bookmark this for later!—but if you don't have time right now, just enter your email address below and I'll send you the cheat sheet version, just as soon as I finish it :-)
+(Just a heads-up: this post is pretty long—and informative, so definitely bookmark this for later!—but if you don't have time right now, just enter your email address below and I'll send you the cheat sheet version.
 
 {% include cta.html %}
 
